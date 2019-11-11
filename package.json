@@ -1,0 +1,35 @@
+{
+  "scripts": {
+    "server": "node server.js",
+    "client": "webpack -w",
+    "test": "NODE_ENV=test jest components/"
+  },
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "classnames": "2.2.6",
+    "express": "^4.15.4",
+    "fast-sass-loader": "1.4.7",
+    "isomorphic-fetch": "^2.2.1",
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "webpack": "^3.5.5"
+  },
+  "devDependencies": {
+    "babel-eslint": "8.2.1",
+    "babel-jest": "22.4.4",
+    "eslint": "4.19.1",
+    "eslint-config-airbnb": "16.1.0",
+    "eslint-import-resolver-babel-module": "4.0.0",
+    "eslint-plugin-import": "2.8.0",
+    "eslint-plugin-jest": "21.7.0",
+    "eslint-plugin-jsx-a11y": "6.0.3",
+    "eslint-plugin-react": "7.6.1",
+    "jest": "22.4.4",
+    "react-test-renderer": "^16.2.0"
+  }
+}
