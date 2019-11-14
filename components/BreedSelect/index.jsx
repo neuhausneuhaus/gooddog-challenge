@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 
 import { isEmpty, get } from '../../util/object';
+import BreedList from '../BreedList';
 
 
 export default class BreedSelect extends Component {
@@ -69,18 +70,30 @@ export default class BreedSelect extends Component {
             onChange={ this.handleInputChange }
           />
         </div>
-        <div
+        <BreedList
+          listType="Pure Breeds"
+          visibleBreeds={visibleBreeds}
+        />
+        <BreedList
+          listType="Mixed Breeds"
+          visibleBreeds={visibleBreeds}
+        />
+        <BreedList
+          listType="Non-Live Breeds"
+          visibleBreeds={visibleBreeds}
+        />
+        {/* <div
           role="presentation"
           onMouseDown={ e => e.preventDefault() }
-        >
-          {
+        > */}
+          {/* {
             visibleBreeds.map(breed => (
               <p className="breed" key={ breed.id }>
                 { breed.name }
               </p>
             ))
-          }
-        </div>
+          } */}
+        {/* </div> */}
       </div>
     );
   }
