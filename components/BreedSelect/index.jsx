@@ -25,20 +25,37 @@ export default class BreedSelect extends Component {
     let name = derivedState.textInput || prevState.textInput;
     name = name.toLowerCase();
 
-    if (name === '') {
-      derivedState.visibleBreeds = nextProps.availableBreeds;
-    } else {
+    // if (name === '') {
+    //   derivedState.visibleBreeds = nextProps.availableBreeds;
+    // } else {
+      // TODO: remove once replaced in tests
       derivedState.visibleBreeds = nextProps.availableBreeds.filter(
         b => b.name.toLowerCase().includes(name)
       );
-    }
+
+      // TODO: do this more efficiently!
+
+      derivedState.visibleMixedBreeds = nextProps.availableBreeds.filter(
+        b => b.live && b.mixed && b.name.toLowerCase().includes(name)
+      );
+      derivedState.visiblePureBreeds = nextProps.availableBreeds.filter(
+        b => b.live && !b.mixed && b.name.toLowerCase().includes(name)
+      );
+      derivedState.visibleNonLiveBreeds = nextProps.availableBreeds.filter(
+        b => !b.live && b.name.toLowerCase().includes(name)
+      );
+
+    // }
 
     return isEmpty(derivedState) ? null : derivedState;
   }
 
   state = {
     textInput: '',
-    visibleBreeds: []
+    visibleBreeds: [],
+    visibleMixedBreeds: [],
+    visiblePureBreeds: [],
+    visibleNonLiveBreeds: []
   };
 
   handleInputChange = (event) =>
@@ -56,7 +73,7 @@ export default class BreedSelect extends Component {
   }
 
   render() {
-    const { textInput, visibleBreeds } = this.state;
+    const { textInput, visibleMixedBreeds, visiblePureBreeds, visibleNonLiveBreeds } = this.state;
 
     return (
       <div className="BreedSelect">
@@ -72,15 +89,15 @@ export default class BreedSelect extends Component {
         </div>
         <BreedList
           listType="Pure Breeds"
-          visibleBreeds={visibleBreeds}
+          visibleBreeds={visiblePureBreeds}
         />
         <BreedList
           listType="Mixed Breeds"
-          visibleBreeds={visibleBreeds}
+          visibleBreeds={visibleMixedBreeds}
         />
         <BreedList
           listType="Non-Live Breeds"
-          visibleBreeds={visibleBreeds}
+          visibleBreeds={visibleNonLiveBreeds}
         />
         {/* <div
           role="presentation"

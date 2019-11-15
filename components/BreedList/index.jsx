@@ -22,7 +22,9 @@ export default class BreedList extends Component {
 
   render() {
     return (
-      <div className="BreedList">
+      <div className="BreedList"
+        style={{float: "left"}}
+      >
         <div className="BreedList-Title">
           {this.props.listType}
         </div>
@@ -34,6 +36,8 @@ export default class BreedList extends Component {
             this.props.visibleBreeds.map(breed => (
               <p className="breed" key={ breed.id }>
                 { breed.name }
+                live: { breed.live ? " true" : " false" }
+                mixed: { breed.mixed ? " true" : " false"}
               </p>
             ))
           }
