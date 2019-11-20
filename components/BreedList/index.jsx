@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 
-import { isEmpty } from '../../util/object';
+// import { isEmpty } from '../../util/object';
 
 export default class BreedList extends Component {
   static propTypes = {

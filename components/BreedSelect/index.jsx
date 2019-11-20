@@ -25,27 +25,29 @@ export default class BreedSelect extends Component {
     let name = derivedState.textInput || prevState.textInput;
     name = name.toLowerCase();
 
-    // if (name === '') {
-    //   derivedState.visibleBreeds = nextProps.availableBreeds;
-    // } else {
-      // TODO: remove once replaced in tests
-      derivedState.visibleBreeds = nextProps.availableBreeds.filter(
+    let visibleBreeds;
+    if (name === '') {
+      visibleBreeds = nextProps.availableBreeds;
+    } else {
+      visibleBreeds = nextProps.availableBreeds.filter(
         b => b.name.toLowerCase().includes(name)
       );
+    }
 
-      // TODO: do this more efficiently!
+    // TODO: potentially remove once replaced in tests
+    derivedState.visibleBreeds = visibleBreeds;
 
-      derivedState.visibleMixedBreeds = nextProps.availableBreeds.filter(
-        b => b.live && b.mixed && b.name.toLowerCase().includes(name)
-      );
-      derivedState.visiblePureBreeds = nextProps.availableBreeds.filter(
-        b => b.live && !b.mixed && b.name.toLowerCase().includes(name)
-      );
-      derivedState.visibleNonLiveBreeds = nextProps.availableBreeds.filter(
-        b => !b.live && b.name.toLowerCase().includes(name)
-      );
-
-    // }
+    // Filter breeds remaining in nextProps.available breeds into Mixed, Pure, and NonLive
+    // Note: All non-live breeds should be in the non-live group exclusively, regardless of other values
+    derivedState.visibleMixedBreeds = visibleBreeds.filter(
+      b => b.live && b.mixed
+    );
+    derivedState.visiblePureBreeds = visibleBreeds.filter(
+      b => b.live && !b.mixed
+    );
+    derivedState.visibleNonLiveBreeds = visibleBreeds.filter(
+      b => !b.live
+    );
 
     return isEmpty(derivedState) ? null : derivedState;
   }
@@ -99,18 +101,6 @@ export default class BreedSelect extends Component {
           listType="Non-Live Breeds"
           visibleBreeds={visibleNonLiveBreeds}
         />
-        {/* <div
-          role="presentation"
-          onMouseDown={ e => e.preventDefault() }
-        > */}
-          {/* {
-            visibleBreeds.map(breed => (
-              <p className="breed" key={ breed.id }>
-                { breed.name }
-              </p>
-            ))
-          } */}
-        {/* </div> */}
       </div>
     );
   }

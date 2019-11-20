@@ -1,0 +1,8984 @@
+[
+  {
+    "id": 1,
+    "name": "Affenpinscher",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 2,
+    "name": "Afghan Hound",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 3,
+    "name": "Airedale Terrier",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 4,
+    "name": "Akita",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 5,
+    "name": "Alaskan Klee Kai",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 6,
+    "name": "Alaskan Malamute",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 7,
+    "name": "American English Coonhound",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 8,
+    "name": "American Eskimo Dog",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 9,
+    "name": "American Foxhound",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 10,
+    "name": "American Hairless Terrier",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 11,
+    "name": "American Leopard Hound",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 12,
+    "name": "American Staffordshire Terrier",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 13,
+    "name": "American Water Spaniel",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 14,
+    "name": "Anatolian Shepherd Dog",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 15,
+    "name": "Appenzeller Sennenhund",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 16,
+    "name": "Australian Cattle Dog",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 17,
+    "name": "Australian Kelpie",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 18,
+    "name": "Australian Shepherd",
+    "live": true,
+    "mixed": false
+  },
+  {
+    "id": 19,
+    "name": "Australian Terrier",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 20,
+    "name": "Azawakh",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 21,
+    "name": "Barbet",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 22,
+    "name": "Basenji",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 23,
+    "name": "Basset Fauve de Bretagne",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 24,
+    "name": "Basset Hound",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 25,
+    "name": "Bavarian Mountain Scent Hound",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 26,
+    "name": "Beagle",
+    "live": true,
+    "mixed": false
+  },
+  {
+    "id": 27,
+    "name": "Bearded Collie",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 28,
+    "name": "Beauceron",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 29,
+    "name": "Bedlington Terrier",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 30,
+    "name": "Belgian Laekenois",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 31,
+    "name": "Belgian Malinois",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 32,
+    "name": "Belgian Sheepdog",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 33,
+    "name": "Belgian Tervuren",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 34,
+    "name": "Bergamasco Sheepdog",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 35,
+    "name": "Berger Picard",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 36,
+    "name": "Bernedoodle",
+    "live": true,
+    "mixed": false
+  },
+  {
+    "id": 37,
+    "name": "Bernese Mountain Dog",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 38,
+    "name": "Bichon Frise",
+    "live": true,
+    "mixed": false
+  },
+  {
+    "id": 39,
+    "name": "Bichpoo",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 40,
+    "name": "Biewer Terrier",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 41,
+    "name": "Black and Tan Coonhound",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 42,
+    "name": "Black Russian Terrier",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 43,
+    "name": "Bloodhound",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 44,
+    "name": "Bluetick Coonhound",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 45,
+    "name": "Boerboel",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 46,
+    "name": "Bolognese",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 47,
+    "name": "Border Collie",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 48,
+    "name": "Border Terrier",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 49,
+    "name": "Borzoi",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 50,
+    "name": "Boston Terrier",
+    "live": true,
+    "mixed": false
+  },
+  {
+    "id": 51,
+    "name": "Bouvier des Flandres",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 52,
+    "name": "Boxer",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 53,
+    "name": "Boykin Spaniel",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 54,
+    "name": "Bracco Italiano",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 55,
+    "name": "Braque du Bourbonnais",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 56,
+    "name": "Braque Francais Pyrenean",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 57,
+    "name": "Briard",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 58,
+    "name": "Brittany",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 59,
+    "name": "Broholmer",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 60,
+    "name": "Brussels Griffon",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 61,
+    "name": "Bull Terrier",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 62,
+    "name": "Bulldog",
+    "live": true,
+    "mixed": false
+  },
+  {
+    "id": 63,
+    "name": "Bullmastiff",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 64,
+    "name": "Cairn Terrier",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 65,
+    "name": "Canaan Dog",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 66,
+    "name": "Cane Corso",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 67,
+    "name": "Cardigan Welsh Corgi",
+    "live": true,
+    "mixed": false
+  },
+  {
+    "id": 68,
+    "name": "Carolina Dog",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 69,
+    "name": "Catahoula Leopard Dog",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 70,
+    "name": "Caucasian Shepherd Dog",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 71,
+    "name": "Cavachon",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 72,
+    "name": "Cavalier King Charles Spaniel",
+    "live": true,
+    "mixed": false
+  },
+  {
+    "id": 73,
+    "name": "Cavapoo",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 74,
+    "name": "Central Asian Shepherd Dog",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 75,
+    "name": "Cesky Terrier",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 76,
+    "name": "Chesapeake Bay Retriever",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 77,
+    "name": "Chihuahua",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 78,
+    "name": "Chinese Crested",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 79,
+    "name": "Chinese Shar-Pei",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 80,
+    "name": "Chinook",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 81,
+    "name": "Chow Chow",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 82,
+    "name": "Cirneco dell’Etna",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 83,
+    "name": "Clumber Spaniel",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 84,
+    "name": "Cockapoo",
+    "live": true,
+    "mixed": false
+  },
+  {
+    "id": 85,
+    "name": "Cocker Spaniel",
+    "live": true,
+    "mixed": false
+  },
+  {
+    "id": 86,
+    "name": "Collie",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 87,
+    "name": "Coton de Tulear",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 88,
+    "name": "Curly-Coated Retriever",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 89,
+    "name": "Czechoslovakian Vlcak",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 90,
+    "name": "Dachshund",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 91,
+    "name": "Dalmatian",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 92,
+    "name": "Dandie Dinmont Terrier",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 93,
+    "name": "Danish-Swedish Farmdog",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 94,
+    "name": "Deutscher Wachtelhund",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 95,
+    "name": "Doberman Pinscher",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 96,
+    "name": "Dogo Argentino",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 97,
+    "name": "Dogue de Bordeaux",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 98,
+    "name": "Drentsche Patrijshond",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 99,
+    "name": "Drever",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 100,
+    "name": "Dutch Shepherd",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 101,
+    "name": "English Cocker Spaniel",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 102,
+    "name": "English Foxhound",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 103,
+    "name": "English Setter",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 104,
+    "name": "English Springer Spaniel",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 105,
+    "name": "English Toy Spaniel",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 106,
+    "name": "Entlebucher Mountain Dog",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 107,
+    "name": "Estrela Mountain Dog",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 108,
+    "name": "Eurasier",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 109,
+    "name": "Field Spaniel",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 110,
+    "name": "Finnish Lapphund",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 111,
+    "name": "Finnish Spitz",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 112,
+    "name": "Flat-Coated Retriever",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 113,
+    "name": "French Bulldog",
+    "live": true,
+    "mixed": false
+  },
+  {
+    "id": 114,
+    "name": "French Spaniel",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 115,
+    "name": "German Longhaired Pointer",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 116,
+    "name": "German Pinscher",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 117,
+    "name": "German Shepherd Dog",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 118,
+    "name": "German Shorthaired Pointer",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 119,
+    "name": "German Spitz",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 120,
+    "name": "German Wirehaired Pointer",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 121,
+    "name": "Giant Schnauzer",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 122,
+    "name": "Glen of Imaal Terrier",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 123,
+    "name": "Golden Retriever",
+    "live": true,
+    "mixed": false
+  },
+  {
+    "id": 124,
+    "name": "Goldendoodle",
+    "live": true,
+    "mixed": false
+  },
+  {
+    "id": 125,
+    "name": "Gordon Setter",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 126,
+    "name": "Grand Basset Griffon Vendéen",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 127,
+    "name": "Great Dane",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 128,
+    "name": "Great Pyrenees",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 129,
+    "name": "Greater Swiss Mountain Dog",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 130,
+    "name": "Greyhound",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 131,
+    "name": "Hamiltonstovare",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 132,
+    "name": "Hanoverian Scenthound",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 133,
+    "name": "Harrier",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 134,
+    "name": "Havachon",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 135,
+    "name": "Havanese",
+    "live": true,
+    "mixed": false
+  },
+  {
+    "id": 136,
+    "name": "Havapoo",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 137,
+    "name": "Hokkaido",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 138,
+    "name": "Hovawart",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 139,
+    "name": "Ibizan Hound",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 140,
+    "name": "Icelandic Sheepdog",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 141,
+    "name": "Irish Red and White Setter",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 142,
+    "name": "Irish Setter",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 143,
+    "name": "Irish Terrier",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 144,
+    "name": "Irish Water Spaniel",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 145,
+    "name": "Irish Wolfhound",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 146,
+    "name": "Italian Greyhound",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 147,
+    "name": "Jack Russell Terrier",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 148,
+    "name": "Jagdterrier",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 149,
+    "name": "Japanese Chin",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 150,
+    "name": "Jindo",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 151,
+    "name": "Kai Ken",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 152,
+    "name": "Karelian Bear Dog",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 153,
+    "name": "Keeshond",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 154,
+    "name": "Kerry Blue Terrier",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 155,
+    "name": "Kishu Ken",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 156,
+    "name": "Komondor",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 157,
+    "name": "Kromfohrlander",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 158,
+    "name": "Kuvasz",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 159,
+    "name": "Labradoodle",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 160,
+    "name": "Labrador Retriever",
+    "live": true,
+    "mixed": false
+  },
+  {
+    "id": 161,
+    "name": "Lagotto Romagnolo",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 162,
+    "name": "Lakeland Terrier",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 163,
+    "name": "Lancashire Heeler",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 164,
+    "name": "Lapponian Herder",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 165,
+    "name": "Leonberger",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 166,
+    "name": "Lhasa Apso",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 167,
+    "name": "Löwchen",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 168,
+    "name": "Maltese",
+    "live": true,
+    "mixed": false
+  },
+  {
+    "id": 169,
+    "name": "Maltipoo",
+    "live": true,
+    "mixed": false
+  },
+  {
+    "id": 170,
+    "name": "Manchester Terrier",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 171,
+    "name": "Mastiff",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 172,
+    "name": "Miniature American Shepherd",
+    "live": true,
+    "mixed": false
+  },
+  {
+    "id": 173,
+    "name": "Miniature Bull Terrier",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 174,
+    "name": "Miniature Pinscher",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 175,
+    "name": "Miniature Schnauzer",
+    "live": true,
+    "mixed": false
+  },
+  {
+    "id": 176,
+    "name": "Morkie",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 177,
+    "name": "Mountain Cur",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 178,
+    "name": "Mudi",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 179,
+    "name": "Neapolitan Mastiff",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 180,
+    "name": "Nederlandse Kooikerhondje",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 181,
+    "name": "Newfoundland",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 182,
+    "name": "Norfolk Terrier",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 183,
+    "name": "Norrbottenspets",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 184,
+    "name": "Norwegian Buhund",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 185,
+    "name": "Norwegian Elkhound",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 186,
+    "name": "Norwegian Lundehund",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 187,
+    "name": "Norwich Terrier",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 188,
+    "name": "Nova Scotia Duck Tolling Retriever",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 189,
+    "name": "Old English Sheepdog",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 190,
+    "name": "Otterhound",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 191,
+    "name": "Papillon",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 192,
+    "name": "Parson Russell Terrier",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 193,
+    "name": "Pekingese",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 194,
+    "name": "Pembroke Welsh Corgi",
+    "live": true,
+    "mixed": false
+  },
+  {
+    "id": 195,
+    "name": "Perro de Presa Canario",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 196,
+    "name": "Peruvian Inca Orchid",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 197,
+    "name": "Petit Basset Griffon Vendéen",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 198,
+    "name": "Pharaoh Hound",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 199,
+    "name": "Plott",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 200,
+    "name": "Pointer",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 201,
+    "name": "Polish Lowland Sheepdog",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 202,
+    "name": "Pomeranian",
+    "live": true,
+    "mixed": false
+  },
+  {
+    "id": 203,
+    "name": "Pomsky",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 204,
+    "name": "Poodle",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 205,
+    "name": "Porcelaine",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 206,
+    "name": "Portuguese Podengo",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 207,
+    "name": "Portuguese Podengo Pequeno",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 208,
+    "name": "Portuguese Pointer",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 209,
+    "name": "Portuguese Sheepdog",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 210,
+    "name": "Portuguese Water Dog",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 211,
+    "name": "Pudelpointer",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 212,
+    "name": "Pug",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 213,
+    "name": "Puggle",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 214,
+    "name": "Puli",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 215,
+    "name": "Pumi",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 216,
+    "name": "Pyrenean Mastiff",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 217,
+    "name": "Pyrenean Shepherd",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 218,
+    "name": "Rafeiro do Alentejo",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 219,
+    "name": "Rat Terrier",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 220,
+    "name": "Redbone Coonhound",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 221,
+    "name": "Rhodesian Ridgeback",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 222,
+    "name": "Rottweiler",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 223,
+    "name": "Russell Terrier",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 224,
+    "name": "Russian Toy",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 225,
+    "name": "Russian Tsvetnaya Bolonka",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 226,
+    "name": "Saint Bernard",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 227,
+    "name": "Saluki",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 228,
+    "name": "Samoyed",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 229,
+    "name": "Schapendoes",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 230,
+    "name": "Schipperke",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 231,
+    "name": "Scottish Deerhound",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 232,
+    "name": "Scottish Terrier",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 233,
+    "name": "Sealyham Terrier",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 234,
+    "name": "Sheepadoodle",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 235,
+    "name": "Shetland Sheepdog",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 236,
+    "name": "Shiba Inu",
+    "live": true,
+    "mixed": false
+  },
+  {
+    "id": 237,
+    "name": "Shichon",
+    "live": true,
+    "mixed": false
+  },
+  {
+    "id": 238,
+    "name": "Shih Tzu",
+    "live": true,
+    "mixed": false
+  },
+  {
+    "id": 239,
+    "name": "Shihpoo",
+    "live": true,
+    "mixed": false
+  },
+  {
+    "id": 240,
+    "name": "Shikoku",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 241,
+    "name": "Siberian Husky",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 242,
+    "name": "Silky Terrier",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 243,
+    "name": "Skye Terrier",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 244,
+    "name": "Sloughi",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 245,
+    "name": "Slovensky Cuvac",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 246,
+    "name": "Slovensky Kopov",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 247,
+    "name": "Small Munsterlander Pointer",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 248,
+    "name": "Smooth Fox Terrier",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 249,
+    "name": "Soft Coated Wheaten Terrier",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 250,
+    "name": "Spanish Mastiff",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 251,
+    "name": "Spanish Water Dog",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 252,
+    "name": "Spinone Italiano",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 253,
+    "name": "Stabyhoun",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 254,
+    "name": "Staffordshire Bull Terrier",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 255,
+    "name": "Standard Schnauzer",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 256,
+    "name": "Sussex Spaniel",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 257,
+    "name": "Swedish Lapphund",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 258,
+    "name": "Swedish Vallhund",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 259,
+    "name": "Taiwan Dog",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 260,
+    "name": "Teddy Roosevelt Terrier",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 261,
+    "name": "Thai Ridgeback",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 262,
+    "name": "Tibetan Mastiff",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 263,
+    "name": "Tibetan Spaniel",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 264,
+    "name": "Tibetan Terrier",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 265,
+    "name": "Tornjak",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 266,
+    "name": "Tosa",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 267,
+    "name": "Toy Fox Terrier",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 268,
+    "name": "Transylvanian Hound",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 269,
+    "name": "Treeing Tennessee Brindle",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 270,
+    "name": "Treeing Walker Coonhound",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 271,
+    "name": "Vizsla",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 272,
+    "name": "Weimaraner",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 273,
+    "name": "Welsh Springer Spaniel",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 274,
+    "name": "Welsh Terrier",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 275,
+    "name": "West Highland White Terrier",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 276,
+    "name": "Whippet",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 277,
+    "name": "Wire Fox Terrier",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 278,
+    "name": "Wirehaired Pointing Griffon",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 279,
+    "name": "Wirehaired Vizsla",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 280,
+    "name": "Working Kelpie",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 281,
+    "name": "Xoloitzcuintli",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 282,
+    "name": "Yakutian Laika",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 283,
+    "name": "Yorkipoo",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 284,
+    "name": "Yorkshire Terrier",
+    "live": true,
+    "mixed": false
+  },
+  {
+    "id": 285,
+    "name": "Australian Labradoodle",
+    "live": true,
+    "mixed": false
+  },
+  {
+    "id": 286,
+    "name": "Standard Poodle",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 287,
+    "name": "Miniature Poodle",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 288,
+    "name": "Toy Poodle",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 291,
+    "name": "Miniature Australian Shepherd",
+    "live": true,
+    "mixed": false
+  },
+  {
+    "id": 292,
+    "name": "Schnoodle",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 293,
+    "name": "Mal-Shi",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 294,
+    "name": "Newfipoo",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 295,
+    "name": "Newfidors",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 296,
+    "name": "Newfinees",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 297,
+    "name": "Bearded Retriever",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 298,
+    "name": "Aussiedoodle",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 299,
+    "name": "Poodle Pointer",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 300,
+    "name": "Cavador",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 301,
+    "name": "Golden Mountain Doodle",
+    "live": false,
+    "mixed": false
+  },
+  {
+    "id": 302,
+    "name": "Toy Australian Shepherd",
+    "live": true,
+    "mixed": false
+  },
+  {
+    "id": 303,
+    "name": "Mixed Breed",
+    "live": true,
+    "mixed": true
+  },
+  {
+    "id": 304,
+    "name": "Dachshund & Italian Greyhound",
+    "live": true,
+    "mixed": true
+  },
+  {
+    "id": 305,
+    "name": "Labrador Retriever & Staffordshire Bull Terrier",
+    "live": true,
+    "mixed": true
+  },
+  {
+    "id": 306,
+    "name": "Shepherd",
+    "live": true,
+    "mixed": true
+  },
+  {
+    "id": 308,
+    "name": "Pit Bull Terrier",
+    "live": true,
+    "mixed": true
+  },
+  {
+    "id": 309,
+    "name": "Mixed Breed & Pit Bull Terrier",
+    "live": true,
+    "mixed": true
+  },
+  {
+    "id": 310,
+    "name": "Terrier",
+    "live": true,
+    "mixed": true
+  },
+  {
+    "id": 311,
+    "name": "American Bulldog",
+    "live": true,
+    "mixed": true
+  },
+  {
+    "id": 312,
+    "name": "Hound",
+    "live": true,
+    "mixed": true
+  },
+  {
+    "id": 313,
+    "name": "Hound & Mixed Breed",
+    "live": true,
+    "mixed": true
+  },
+  {
+    "id": 314,
+    "name": "Labrador Retriever & Shepherd",
+    "live": true,
+    "mixed": true
+  },
+  {
+    "id": 315,
+    "name": "Basset Hound & Beagle",
+    "live": true,
+    "mixed": true
+  },
+  {
+    "id": 316,
+    "name": "German Shepherd Dog & Hound",
+    "live": true,
+    "mixed": true
+  },
+  {
+    "id": 317,
+    "name": "German Shepherd Dog & Pit Bull Terrier",
+    "live": true,
+    "mixed": true
+  },
+  {
+    "id": 318,
+    "name": "Labrador Retriever & Mixed Breed",
+    "live": true,
+    "mixed": true
+  },
+  {
+    "id": 319,
+    "name": "American Bulldog & Terrier",
+    "live": true,
+    "mixed": true
+  },
+  {
+    "id": 320,
+    "name": "Pit Bull Terrier & Terrier",
+    "live": true,
+    "mixed": true
+  },
+  {
+    "id": 321,
+    "name": "Terrier & Yorkshire Terrier",
+    "live": true,
+    "mixed": true
+  },
+  {
+    "id": 322,
+    "name": "Labrador Retriever & Pit Bull Terrier",
+    "live": true,
+    "mixed": true
+  },
+  {
+    "id": 323,
+    "name": "Black Labrador Retriever",
+    "live": true,
+    "mixed": true
+  },
+  {
+    "id": 324,
+    "name": "Chihuahua & Parson Russell Terrier",
+    "live": true,
+    "mixed": true
+  },
+  {
+    "id": 325,
+    "name": "Beagle & Pug",
+    "live": true,
+    "mixed": true
+  },
+  {
+    "id": 326,
+    "name": "Black Labrador Retriever & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 327,
+    "name": "Feist",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 328,
+    "name": "Feist & Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 329,
+    "name": "Pit Bull Terrier & Staffordshire Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 330,
+    "name": "Schnauzer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 331,
+    "name": "Poodle & Shih Tzu",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 332,
+    "name": "Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 333,
+    "name": "Setter",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 334,
+    "name": "Retriever & Setter",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 335,
+    "name": "Boxer & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 336,
+    "name": "Boxer & Mastiff",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 337,
+    "name": "Hound & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 338,
+    "name": "Lhasa Apso & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 339,
+    "name": "Labrador Retriever & Pointer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 340,
+    "name": "Australian Cattle Dog / Blue Heeler",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 341,
+    "name": "Beagle & Shiba Inu",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 342,
+    "name": "Belgian Shepherd / Malinois",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 343,
+    "name": "Belgian Shepherd / Malinois & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 344,
+    "name": "Shar-Pei",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 345,
+    "name": "Hound & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 346,
+    "name": "Plott Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 347,
+    "name": "Border Terrier & Maltese",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 348,
+    "name": "Foxhound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 349,
+    "name": "Shih Tzu & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 350,
+    "name": "Chihuahua & Dachshund",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 351,
+    "name": "Australian Cattle Dog / Blue Heeler & Pointer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 352,
+    "name": "Beagle & Weimaraner",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 353,
+    "name": "Hound & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 354,
+    "name": "Cocker Spaniel & Poodle",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 355,
+    "name": "Dachshund & Rat Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 356,
+    "name": "Akita & Cane Corso",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 357,
+    "name": "Cattle Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 358,
+    "name": "American Staffordshire Terrier & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 359,
+    "name": "American Staffordshire Terrier & Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 360,
+    "name": "Rottweiler & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 361,
+    "name": "Corgi",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 362,
+    "name": "Blue Lacy",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 363,
+    "name": "Blue Lacy & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 364,
+    "name": "German Shepherd Dog & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 365,
+    "name": "Black and Tan Coonhound & Catahoula Leopard Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 366,
+    "name": "Retriever & Whippet",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 367,
+    "name": "Chihuahua & Pug",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 368,
+    "name": "Coonhound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 369,
+    "name": "Boxer & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 370,
+    "name": "German Shepherd Dog & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 371,
+    "name": "Husky",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 372,
+    "name": "German Shepherd Dog & Husky",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 373,
+    "name": "Boxer & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 374,
+    "name": "Boxer & Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 375,
+    "name": "Australian Shepherd & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 376,
+    "name": "American Staffordshire Terrier & Boxer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 377,
+    "name": "Labrador Retriever & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 378,
+    "name": "Border Collie & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 379,
+    "name": "Black Mouth Cur",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 380,
+    "name": "Black Mouth Cur & Rhodesian Ridgeback",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 381,
+    "name": "Catahoula Leopard Dog & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 382,
+    "name": "Labrador Retriever & Shar-Pei",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 383,
+    "name": "Boxer & Catahoula Leopard Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 384,
+    "name": "Husky & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 385,
+    "name": "American Staffordshire Terrier & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 386,
+    "name": "Border Collie & Husky",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 387,
+    "name": "Hound & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 388,
+    "name": "Lhasa Apso & Maltese",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 389,
+    "name": "Australian Cattle Dog / Blue Heeler & Carolina Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 390,
+    "name": "Black Mouth Cur & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 391,
+    "name": "Dachshund & Jack Russell Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 392,
+    "name": "Mixed Breed & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 393,
+    "name": "Anatolian Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 394,
+    "name": "Pit Bull Terrier & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 395,
+    "name": "Australian Shepherd & Collie",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 396,
+    "name": "Beagle & Dachshund",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 397,
+    "name": "Beagle & Jack Russell Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 398,
+    "name": "American Bulldog & Boxer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 399,
+    "name": "Wheaten Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 400,
+    "name": "American Staffordshire Terrier & Wheaten Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 401,
+    "name": "American Staffordshire Terrier & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 402,
+    "name": "Jack Russell Terrier & Staffordshire Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 403,
+    "name": "Border Terrier & Wheaten Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 404,
+    "name": "Maltese & Poodle",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 405,
+    "name": "Boxer & Bullmastiff",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 406,
+    "name": "American Bulldog & Pointer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 407,
+    "name": "Feist & Jack Russell Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 408,
+    "name": "Dachshund & Pug",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 409,
+    "name": "Chihuahua & Italian Greyhound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 410,
+    "name": "Toy Fox Terrier & Whippet",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 411,
+    "name": "Chihuahua & Miniature Pinscher",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 412,
+    "name": "Cairn Terrier & Poodle",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 413,
+    "name": "Jack Russell Terrier & Maltese",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 414,
+    "name": "Chihuahua & Toy Fox Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 415,
+    "name": "Boxer & French Bulldog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 416,
+    "name": "Staffordshire Bull Terrier & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 417,
+    "name": "Chihuahua & Pembroke Welsh Corgi",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 418,
+    "name": "Australian Kelpie & German Shepherd Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 419,
+    "name": "Chihuahua & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 420,
+    "name": "Cattle Dog & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 421,
+    "name": "American Staffordshire Terrier & Black Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 422,
+    "name": "Chihuahua & Corgi",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 423,
+    "name": "Australian Cattle Dog / Blue Heeler & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 424,
+    "name": "Italian Greyhound & Jack Russell Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 425,
+    "name": "Black Labrador Retriever & Coonhound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 426,
+    "name": "Mixed Breed & Staffordshire Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 427,
+    "name": "Labrador Retriever & Weimaraner",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 428,
+    "name": "Cattle Dog & Jack Russell Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 429,
+    "name": "Husky & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 430,
+    "name": "American Staffordshire Terrier & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 431,
+    "name": "Poodle & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 432,
+    "name": "Italian Greyhound & Miniature Pinscher",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 433,
+    "name": "Akita & German Shepherd Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 434,
+    "name": "Labrador Retriever & Pug",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 435,
+    "name": "English Bulldog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 436,
+    "name": "American Bulldog & American Staffordshire Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 437,
+    "name": "Dachshund & German Shepherd Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 438,
+    "name": "Great Dane & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 439,
+    "name": "Australian Shepherd & Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 440,
+    "name": "Brussels Griffon & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 441,
+    "name": "Pit Bull Terrier & Plott Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 442,
+    "name": "Australian Shepherd & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 443,
+    "name": "Chow Chow & Golden Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 444,
+    "name": "Australian Cattle Dog / Blue Heeler & Staffordshire Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 445,
+    "name": "Collie & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 446,
+    "name": "Cattle Dog & German Shepherd Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 447,
+    "name": "Dachshund & Staffordshire Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 448,
+    "name": "Australian Cattle Dog / Blue Heeler & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 449,
+    "name": "Corgi & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 450,
+    "name": "Dutch Shepherd & Weimaraner",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 451,
+    "name": "Black Labrador Retriever & Mountain Cur",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 452,
+    "name": "Shepherd & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 453,
+    "name": "Mixed Breed & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 454,
+    "name": "Patterdale Terrier / Fell Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 455,
+    "name": "Lakeland Terrier & Patterdale Terrier / Fell Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 456,
+    "name": "American Staffordshire Terrier & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 457,
+    "name": "Mastiff & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 458,
+    "name": "American Bulldog & Saint Bernard",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 459,
+    "name": "Boxer & Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 460,
+    "name": "Shetland Sheepdog / Sheltie",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 461,
+    "name": "Cairn Terrier & Shih Tzu",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 462,
+    "name": "Beagle & Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 463,
+    "name": "Beagle & Boxer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 464,
+    "name": "American Bulldog & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 465,
+    "name": "American Bulldog & French Bulldog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 466,
+    "name": "Boston Terrier & Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 467,
+    "name": "Boxer & Rottweiler",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 468,
+    "name": "Beagle & Chihuahua",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 469,
+    "name": "Australian Kelpie & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 470,
+    "name": "Chow Chow & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 471,
+    "name": "Doberman Pinscher & Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 472,
+    "name": "English Setter & Great Pyrenees",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 473,
+    "name": "Chihuahua & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 474,
+    "name": "Mountain Cur & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 475,
+    "name": "Cattle Dog & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 476,
+    "name": "Border Collie & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 477,
+    "name": "Mixed Breed & Rottweiler",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 478,
+    "name": "Dachshund & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 479,
+    "name": "Cattle Dog & Rottweiler",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 480,
+    "name": "Labrador Retriever & Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 481,
+    "name": "Belgian Shepherd / Malinois & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 482,
+    "name": "American Staffordshire Terrier & Collie",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 483,
+    "name": "Bull Terrier & Staffordshire Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 484,
+    "name": "Chihuahua & Shiba Inu",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 485,
+    "name": "Mastiff & Saint Bernard",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 486,
+    "name": "Chocolate Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 487,
+    "name": "Border Terrier & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 488,
+    "name": "Australian Cattle Dog / Blue Heeler & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 489,
+    "name": "Hound & Pug",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 490,
+    "name": "Doberman Pinscher & Rottweiler",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 491,
+    "name": "Mixed Breed & Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 492,
+    "name": "Dachshund & Patterdale Terrier / Fell Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 493,
+    "name": "Catahoula Leopard Dog & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 494,
+    "name": "American Bulldog & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 495,
+    "name": "English Pointer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 496,
+    "name": "English Pointer & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 497,
+    "name": "American Staffordshire Terrier & Dalmatian",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 498,
+    "name": "Dachshund & Pomeranian",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 499,
+    "name": "Boston Terrier & Chihuahua",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 500,
+    "name": "Boxer & German Shepherd Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 501,
+    "name": "Australian Shepherd & Rottweiler",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 502,
+    "name": "American Staffordshire Terrier & Chocolate Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 503,
+    "name": "Cane Corso & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 504,
+    "name": "Pug & Shetland Sheepdog / Sheltie",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 505,
+    "name": "West Highland White Terrier / Westie",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 506,
+    "name": "Black Labrador Retriever & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 507,
+    "name": "Border Collie & Cattle Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 508,
+    "name": "Basset Hound & Jack Russell Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 509,
+    "name": "German Shorthaired Pointer & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 510,
+    "name": "Australian Terrier & West Highland White Terrier / Westie",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 511,
+    "name": "Ibizan Hound & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 512,
+    "name": "German Shorthaired Pointer & Pointer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 513,
+    "name": "Dachshund & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 514,
+    "name": "Catahoula Leopard Dog & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 515,
+    "name": "Border Terrier & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 516,
+    "name": "American Staffordshire Terrier & Dachshund",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 517,
+    "name": "Australian Cattle Dog / Blue Heeler & Rat Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 518,
+    "name": "Collie & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 519,
+    "name": "American Eskimo Dog & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 520,
+    "name": "Australian Cattle Dog / Blue Heeler & Australian Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 521,
+    "name": "Basenji & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 522,
+    "name": "Great Pyrenees & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 523,
+    "name": "Alaskan Malamute & Feist",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 524,
+    "name": "Mixed Breed & Rhodesian Ridgeback",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 525,
+    "name": "Jack Russell Terrier & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 526,
+    "name": "Beagle & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 527,
+    "name": "German Shorthaired Pointer & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 528,
+    "name": "Mixed Breed & Rat Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 529,
+    "name": "Pit Bull Terrier & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 530,
+    "name": "Labrador Retriever & Mastiff",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 531,
+    "name": "Jack Russell Terrier & Rat Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 532,
+    "name": "Labrador Retriever & Whippet",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 533,
+    "name": "Chihuahua & Jack Russell Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 534,
+    "name": "Chow Chow & Collie",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 535,
+    "name": "Dachshund & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 536,
+    "name": "Afghan Hound & Great Pyrenees",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 537,
+    "name": "Cardigan Welsh Corgi & Jack Russell Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 538,
+    "name": "Border Terrier & Pug",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 539,
+    "name": "Australian Shepherd & Beagle",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 540,
+    "name": "Basset Hound & Dalmatian",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 541,
+    "name": "Greyhound & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 542,
+    "name": "Poodle & Yorkshire Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 543,
+    "name": "American Bulldog & Mastiff",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 544,
+    "name": "Border Collie & Catahoula Leopard Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 545,
+    "name": "Bull Terrier & Bullmastiff",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 546,
+    "name": "Mastiff & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 547,
+    "name": "American Bulldog & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 548,
+    "name": "Mixed Breed & Shar-Pei",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 549,
+    "name": "Entlebucher",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 550,
+    "name": "Entlebucher & German Shorthaired Pointer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 551,
+    "name": "Labrador Retriever & Rottweiler",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 552,
+    "name": "Australian Cattle Dog / Blue Heeler & Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 553,
+    "name": "American Staffordshire Terrier & Cane Corso",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 554,
+    "name": "Australian Cattle Dog / Blue Heeler & Dalmatian",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 555,
+    "name": "Beagle & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 556,
+    "name": "Collie & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 557,
+    "name": "Greyhound & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 558,
+    "name": "Mixed Breed & Pointer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 559,
+    "name": "Black Mouth Cur & Great Dane",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 560,
+    "name": "Collie & Corgi",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 561,
+    "name": "Wirehaired Dachshund",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 562,
+    "name": "Dachshund & Wirehaired Dachshund",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 563,
+    "name": "Basset Hound & Dachshund",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 564,
+    "name": "Labrador Retriever & Mountain Cur",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 565,
+    "name": "Great Pyrenees & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 566,
+    "name": "Rat Terrier & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 567,
+    "name": "Pomeranian & Shetland Sheepdog / Sheltie",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 568,
+    "name": "Chihuahua & Rat Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 569,
+    "name": "American Bulldog & English Bulldog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 570,
+    "name": "Shepherd & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 571,
+    "name": "Boxer & Staffordshire Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 572,
+    "name": "Pit Bull Terrier & Rhodesian Ridgeback",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 573,
+    "name": "Boston Terrier & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 574,
+    "name": "German Shepherd Dog & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 575,
+    "name": "American Bulldog & Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 576,
+    "name": "German Shepherd Dog & Siberian Husky",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 577,
+    "name": "Boxer & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 578,
+    "name": "Cattle Dog & Chihuahua",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 579,
+    "name": "Newfoundland Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 580,
+    "name": "Newfoundland Dog & Saint Bernard",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 581,
+    "name": "English Bulldog & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 582,
+    "name": "Hound & Mountain Cur",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 583,
+    "name": "Mixed Breed & Mountain Cur",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 584,
+    "name": "Hound & Mastiff",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 585,
+    "name": "Beagle & Redbone Coonhound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 586,
+    "name": "Catahoula Leopard Dog & Chihuahua",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 587,
+    "name": "Pit Bull Terrier & Shar-Pei",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 588,
+    "name": "Border Collie & Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 589,
+    "name": "Black Mouth Cur & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 590,
+    "name": "Black Mouth Cur & Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 591,
+    "name": "American Eskimo Dog & Rat Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 592,
+    "name": "Bluetick Coonhound & Pointer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 593,
+    "name": "Spaniel",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 594,
+    "name": "Pit Bull Terrier & Spaniel",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 595,
+    "name": "Pointer & Redbone Coonhound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 596,
+    "name": "Bull Terrier & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 597,
+    "name": "Australian Shepherd & Boxer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 598,
+    "name": "Basset Hound & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 599,
+    "name": "Cairn Terrier & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 600,
+    "name": "Labrador Retriever & Miniature Pinscher",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 601,
+    "name": "Black Labrador Retriever & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 602,
+    "name": "Border Collie & Collie",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 603,
+    "name": "Husky & Siberian Husky",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 604,
+    "name": "Hound & Plott Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 605,
+    "name": "Blue Lacy & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 606,
+    "name": "Retriever & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 607,
+    "name": "Hound & Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 608,
+    "name": "Akita & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 609,
+    "name": "Mixed Breed & Siberian Husky",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 610,
+    "name": "Mixed Breed & Parson Russell Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 611,
+    "name": "Feist & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 612,
+    "name": "Miniature Pinscher & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 613,
+    "name": "Beagle & Cattle Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 614,
+    "name": "Labrador Retriever & Spaniel",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 615,
+    "name": "Catahoula Leopard Dog & Cattle Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 616,
+    "name": "Mixed Breed & Plott Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 617,
+    "name": "Cattle Dog & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 618,
+    "name": "Boxer & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 619,
+    "name": "Hound & Shar-Pei",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 620,
+    "name": "Carolina Dog & Staffordshire Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 621,
+    "name": "Brussels Griffon & Shih Tzu",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 622,
+    "name": "Pekingese & Shih Tzu",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 623,
+    "name": "Boxer & Shar-Pei",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 624,
+    "name": "Collie & Husky",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 625,
+    "name": "Feist & Greyhound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 626,
+    "name": "Chihuahua & Spaniel",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 627,
+    "name": "Chihuahua & Whippet",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 628,
+    "name": "Black Labrador Retriever & Chow Chow",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 629,
+    "name": "Fox Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 630,
+    "name": "American Bulldog & English Pointer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 631,
+    "name": "Chihuahua & Yorkshire Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 632,
+    "name": "Australian Cattle Dog / Blue Heeler & Australian Kelpie",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 633,
+    "name": "Sheep Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 634,
+    "name": "Sheep Dog & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 635,
+    "name": "Alaskan Malamute & Siberian Husky",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 636,
+    "name": "Black and Tan Coonhound & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 637,
+    "name": "Black Mouth Cur & Golden Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 638,
+    "name": "Boxer & Cattle Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 639,
+    "name": "Black Labrador Retriever & Border Collie",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 640,
+    "name": "Coonhound & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 641,
+    "name": "Dachshund & Fox Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 642,
+    "name": "Black Labrador Retriever & Rottweiler",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 643,
+    "name": "Boxer & Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 644,
+    "name": "American Staffordshire Terrier & Catahoula Leopard Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 645,
+    "name": "Pit Bull Terrier & Pointer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 646,
+    "name": "Spaniel & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 647,
+    "name": "American Bulldog & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 648,
+    "name": "Beagle & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 649,
+    "name": "Belgian Shepherd / Tervuren",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 650,
+    "name": "Scottish Terrier & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 651,
+    "name": "Boston Terrier & Cattle Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 652,
+    "name": "Dachshund & Parson Russell Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 653,
+    "name": "Australian Kelpie & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 654,
+    "name": "Doberman Pinscher & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 655,
+    "name": "Basset Hound & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 656,
+    "name": "Basset Hound & German Shepherd Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 657,
+    "name": "Chow Chow & Siberian Husky",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 658,
+    "name": "Mixed Breed & Treeing Walker Coonhound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 659,
+    "name": "Black Mouth Cur & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 660,
+    "name": "Mixed Breed & Smooth Fox Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 661,
+    "name": "Cattle Dog & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 662,
+    "name": "Collie & Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 663,
+    "name": "Basset Hound & Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 664,
+    "name": "Terrier & Whippet",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 665,
+    "name": "Great Dane & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 666,
+    "name": "Cairn Terrier & Cattle Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 667,
+    "name": "Maltese & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 668,
+    "name": "Dalmatian & Standard Poodle",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 669,
+    "name": "Portuguese Podengo & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 670,
+    "name": "Australian Cattle Dog / Blue Heeler & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 671,
+    "name": "Bichon Frise & Poodle",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 672,
+    "name": "Great Dane & Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 673,
+    "name": "Schnauzer & West Highland White Terrier / Westie",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 674,
+    "name": "Boston Terrier & Patterdale Terrier / Fell Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 675,
+    "name": "Black Labrador Retriever & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 676,
+    "name": "Labrador Retriever & Siberian Husky",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 677,
+    "name": "Catahoula Leopard Dog & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 678,
+    "name": "Border Terrier & Parson Russell Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 679,
+    "name": "Manchester Terrier & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 680,
+    "name": "Dutch Shepherd & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 681,
+    "name": "Anatolian Shepherd & Belgian Shepherd / Malinois",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 682,
+    "name": "American Staffordshire Terrier & Basset Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 683,
+    "name": "Border Collie & Rottweiler",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 684,
+    "name": "Retriever & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 685,
+    "name": "Yellow Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 686,
+    "name": "American Bulldog & Dachshund",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 687,
+    "name": "American Staffordshire Terrier & Boston Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 688,
+    "name": "Corgi & Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 689,
+    "name": "Great Dane & Pointer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 690,
+    "name": "Cattle Dog & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 691,
+    "name": "Flat-Coated Retriever & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 692,
+    "name": "Pointer & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 693,
+    "name": "Smooth Collie",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 694,
+    "name": "Flat-Coated Retriever & Smooth Collie",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 695,
+    "name": "Rough Collie",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 696,
+    "name": "Labrador Retriever & Rough Collie",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 697,
+    "name": "Labrador Retriever & Smooth Collie",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 698,
+    "name": "Rottweiler & Weimaraner",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 699,
+    "name": "Border Collie & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 700,
+    "name": "Australian Cattle Dog / Blue Heeler & Cattle Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 701,
+    "name": "Australian Shepherd & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 702,
+    "name": "Australian Shepherd & Cattle Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 703,
+    "name": "Black Labrador Retriever & Patterdale Terrier / Fell Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 704,
+    "name": "Cattle Dog & Yellow Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 705,
+    "name": "Jack Russell Terrier & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 706,
+    "name": "Cardigan Welsh Corgi & Chihuahua",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 707,
+    "name": "Border Collie & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 708,
+    "name": "Australian Cattle Dog / Blue Heeler & Golden Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 709,
+    "name": "German Shepherd Dog & Pointer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 710,
+    "name": "Bloodhound & Pointer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 711,
+    "name": "Pug & Shiba Inu",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 712,
+    "name": "Mixed Breed & Pug",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 713,
+    "name": "Mixed Breed & Poodle",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 714,
+    "name": "Australian Cattle Dog / Blue Heeler & Husky",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 715,
+    "name": "French Bulldog & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 716,
+    "name": "Australian Shepherd & Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 717,
+    "name": "English Coonhound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 718,
+    "name": "English Coonhound & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 719,
+    "name": "Mixed Breed & Saint Bernard",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 720,
+    "name": "English Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 721,
+    "name": "English Shepherd & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 722,
+    "name": "Mixed Breed & Whippet",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 723,
+    "name": "Chow Chow & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 724,
+    "name": "Border Collie & Jack Russell Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 725,
+    "name": "Rat Terrier & Toy Fox Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 726,
+    "name": "German Shepherd Dog & Rottweiler",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 727,
+    "name": "Pointer & Spaniel",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 728,
+    "name": "American Bulldog & Australian Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 729,
+    "name": "Chihuahua & Pomeranian",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 730,
+    "name": "Border Collie & Boxer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 731,
+    "name": "Bull Terrier & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 732,
+    "name": "English Coonhound & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 733,
+    "name": "Schnauzer & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 734,
+    "name": "Hound & Treeing Walker Coonhound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 735,
+    "name": "Black Mouth Cur & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 736,
+    "name": "Cairn Terrier & Greyhound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 737,
+    "name": "Poodle & Pug",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 738,
+    "name": "Pomeranian & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 739,
+    "name": "Beagle & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 740,
+    "name": "Brittany Spaniel",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 741,
+    "name": "Brittany Spaniel & Vizsla",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 742,
+    "name": "Cairn Terrier & West Highland White Terrier / Westie",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 743,
+    "name": "Husky & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 744,
+    "name": "Chocolate Labrador Retriever & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 745,
+    "name": "Feist & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 746,
+    "name": "Beagle & Border Collie",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 747,
+    "name": "Australian Cattle Dog / Blue Heeler & Border Collie",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 748,
+    "name": "Border Collie & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 749,
+    "name": "Boxer & Doberman Pinscher",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 750,
+    "name": "English Bulldog & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 751,
+    "name": "Hound & Rottweiler",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 752,
+    "name": "Pit Bull Terrier & Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 753,
+    "name": "Black Mouth Cur & Boxer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 754,
+    "name": "American Bulldog & Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 755,
+    "name": "Australian Cattle Dog / Blue Heeler & Catahoula Leopard Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 756,
+    "name": "Cattle Dog & Chocolate Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 757,
+    "name": "Great Dane & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 758,
+    "name": "Beagle & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 759,
+    "name": "American Staffordshire Terrier & Cattle Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 760,
+    "name": "Lhasa Apso & Poodle",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 761,
+    "name": "Australian Shepherd & Boston Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 762,
+    "name": "Labrador Retriever & Saluki",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 763,
+    "name": "Chinese Crested Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 764,
+    "name": "Chinese Crested Dog & Pug",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 765,
+    "name": "Dachshund & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 766,
+    "name": "Chihuahua & Maltese",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 767,
+    "name": "Australian Shepherd & Catahoula Leopard Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 768,
+    "name": "Akita & Great Pyrenees",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 769,
+    "name": "Boxer & Rhodesian Ridgeback",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 770,
+    "name": "Pug & Whippet",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 771,
+    "name": "Corgi & German Shepherd Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 772,
+    "name": "Beagle & Italian Greyhound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 773,
+    "name": "Lhasa Apso & Schnauzer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 774,
+    "name": "Miniature Schnauzer & Silky Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 775,
+    "name": "Mixed Breed & Newfoundland Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 776,
+    "name": "Catahoula Leopard Dog & German Shepherd Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 777,
+    "name": "Hound & Yellow Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 778,
+    "name": "Hound & Pointer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 779,
+    "name": "Lhasa Apso & Shih Tzu",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 780,
+    "name": "Basenji & Black Mouth Cur",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 781,
+    "name": "Anatolian Shepherd & Pointer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 782,
+    "name": "German Shepherd Dog & Shiba Inu",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 783,
+    "name": "Doberman Pinscher & German Shepherd Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 784,
+    "name": "Jack Russell Terrier & West Highland White Terrier / Westie",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 785,
+    "name": "Boston Terrier & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 786,
+    "name": "Brittany Spaniel & Wheaten Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 787,
+    "name": "Collie & Golden Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 788,
+    "name": "Border Terrier & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 789,
+    "name": "Pit Bull Terrier & Rottweiler",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 790,
+    "name": "Dachshund & Shetland Sheepdog / Sheltie",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 791,
+    "name": "Dalmatian & Husky",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 792,
+    "name": "Australian Cattle Dog / Blue Heeler & Great Pyrenees",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 793,
+    "name": "Eskimo Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 794,
+    "name": "American Staffordshire Terrier & Weimaraner",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 795,
+    "name": "Boston Terrier & Boxer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 796,
+    "name": "Basenji & Shiba Inu",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 797,
+    "name": "Bull Terrier & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 798,
+    "name": "Pomeranian & Poodle",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 799,
+    "name": "Cattle Dog & Husky",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 800,
+    "name": "Basenji & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 801,
+    "name": "Border Terrier & Yorkshire Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 802,
+    "name": "Great Dane & Mastiff",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 803,
+    "name": "Bullmastiff & Neapolitan Mastiff",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 804,
+    "name": "German Shepherd Dog & Shar-Pei",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 805,
+    "name": "Chihuahua & Pekingese",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 806,
+    "name": "Doberman Pinscher & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 807,
+    "name": "Black Labrador Retriever & Staffordshire Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 808,
+    "name": "Lancashire Heeler & Rottweiler",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 809,
+    "name": "Miniature Schnauzer & Schipperke",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 810,
+    "name": "Lhasa Apso & Wheaten Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 811,
+    "name": "Pomeranian & Skye Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 812,
+    "name": "Labrador Retriever & Schnauzer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 813,
+    "name": "Dalmatian & Pointer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 814,
+    "name": "American Staffordshire Terrier & Beagle",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 815,
+    "name": "American Staffordshire Terrier & Chow Chow",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 816,
+    "name": "Dalmatian & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 817,
+    "name": "Mixed Breed & Shih Tzu",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 818,
+    "name": "Samoyed & Siberian Husky",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 819,
+    "name": "Beagle & Parson Russell Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 820,
+    "name": "Black Labrador Retriever & Greyhound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 821,
+    "name": "Bull Terrier & Great Dane",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 822,
+    "name": "Chocolate Labrador Retriever & Doberman Pinscher",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 823,
+    "name": "Australian Terrier & Chihuahua",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 824,
+    "name": "Terrier & Vizsla",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 825,
+    "name": "Dalmatian & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 826,
+    "name": "Boston Terrier & Pug",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 827,
+    "name": "American Staffordshire Terrier & German Shepherd Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 828,
+    "name": "Doberman Pinscher & Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 829,
+    "name": "Miniature Poodle & Pekingese",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 830,
+    "name": "Bull Terrier & Doberman Pinscher",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 831,
+    "name": "Miniature Poodle & Miniature Schnauzer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 832,
+    "name": "Chihuahua & Papillon",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 833,
+    "name": "Australian Kelpie & Manchester Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 834,
+    "name": "Greyhound & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 835,
+    "name": "Jack Russell Terrier & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 836,
+    "name": "Redbone Coonhound & Rhodesian Ridgeback",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 837,
+    "name": "Labrador Retriever & Standard Schnauzer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 838,
+    "name": "Catahoula Leopard Dog & Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 839,
+    "name": "Bichon Frise & Chihuahua",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 840,
+    "name": "Dachshund & Poodle",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 841,
+    "name": "Hound & Husky",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 842,
+    "name": "American Staffordshire Terrier & English Bulldog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 843,
+    "name": "English Pointer & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 844,
+    "name": "Corgi & Dachshund",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 845,
+    "name": "Catahoula Leopard Dog & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 846,
+    "name": "Australian Shepherd & Border Collie",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 847,
+    "name": "Mixed Breed & Redbone Coonhound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 848,
+    "name": "Australian Cattle Dog / Blue Heeler & Boxer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 849,
+    "name": "Dachshund & Feist",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 850,
+    "name": "Boxer & Chow Chow",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 851,
+    "name": "Boxer & Husky",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 852,
+    "name": "Chocolate Labrador Retriever & Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 853,
+    "name": "Basset Hound & Schnauzer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 854,
+    "name": "Wirehaired Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 855,
+    "name": "Terrier & Wirehaired Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 856,
+    "name": "English Bulldog & Poodle",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 857,
+    "name": "Jack Russell Terrier & Jindo",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 858,
+    "name": "Chow Chow & Spaniel",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 859,
+    "name": "Spitz",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 860,
+    "name": "Labrador Retriever & Spitz",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 861,
+    "name": "Shepherd & Staffordshire Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 862,
+    "name": "Greyhound & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 863,
+    "name": "Plott Hound & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 864,
+    "name": "Border Collie & Great Pyrenees",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 865,
+    "name": "Boxer & Plott Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 866,
+    "name": "Cattle Dog & Collie",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 867,
+    "name": "Border Collie & Doberman Pinscher",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 868,
+    "name": "German Pinscher & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 869,
+    "name": "Jack Russell Terrier & Pointer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 870,
+    "name": "Basset Hound & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 871,
+    "name": "Foxhound & Treeing Walker Coonhound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 872,
+    "name": "Australian Cattle Dog / Blue Heeler & Chihuahua",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 873,
+    "name": "Pekingese & Pug",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 874,
+    "name": "Cattle Dog & Spaniel",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 875,
+    "name": "Hound & Rhodesian Ridgeback",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 876,
+    "name": "Beagle & Harrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 877,
+    "name": "Border Collie & Great Dane",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 878,
+    "name": "Collie & German Shepherd Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 879,
+    "name": "American Bulldog & Dalmatian",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 880,
+    "name": "Greater Swiss Mountain Dog & Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 881,
+    "name": "Carolina Dog & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 882,
+    "name": "Shar-Pei & Yellow Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 883,
+    "name": "Boxer & Collie",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 884,
+    "name": "Doberman Pinscher & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 885,
+    "name": "Jack Russell Terrier & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 886,
+    "name": "Australian Shepherd & Cockapoo",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 887,
+    "name": "Cocker Spaniel & Pug",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 888,
+    "name": "Airedale Terrier & Great Pyrenees",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 889,
+    "name": "Coonhound & Rottweiler",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 890,
+    "name": "Schnauzer & Yorkshire Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 891,
+    "name": "Great Pyrenees & Saint Bernard",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 892,
+    "name": "Shih Tzu & Yorkshire Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 893,
+    "name": "Shar-Pei & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 894,
+    "name": "Chow Chow & German Shepherd Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 895,
+    "name": "Mixed Breed & Shiba Inu",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 896,
+    "name": "Mastiff & Rottweiler",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 897,
+    "name": "Chocolate Labrador Retriever & Vizsla",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 898,
+    "name": "Mixed Breed & Pomeranian",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 899,
+    "name": "Mixed Breed & Spaniel",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 900,
+    "name": "Shepherd & Siberian Husky",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 901,
+    "name": "Husky & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 902,
+    "name": "Boston Terrier & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 903,
+    "name": "Australian Shepherd & Doberman Pinscher",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 904,
+    "name": "Shiba Inu & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 905,
+    "name": "Anatolian Shepherd & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 906,
+    "name": "Chow Chow & Flat-Coated Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 907,
+    "name": "Chow Chow & Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 908,
+    "name": "Australian Cattle Dog / Blue Heeler & Corgi",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 909,
+    "name": "Belgian Shepherd / Malinois & German Shepherd Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 910,
+    "name": "Chow Chow & Samoyed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 911,
+    "name": "Golden Retriever & Great Pyrenees",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 912,
+    "name": "Boxer & Dutch Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 913,
+    "name": "Australian Shepherd & Great Pyrenees",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 914,
+    "name": "Black and Tan Coonhound & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 915,
+    "name": "Mountain Cur & Plott Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 916,
+    "name": "German Shepherd Dog & Great Pyrenees",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 917,
+    "name": "American Bulldog & Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 918,
+    "name": "Pit Bull Terrier & Rat Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 919,
+    "name": "Akita & Corgi",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 920,
+    "name": "Collie & Plott Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 921,
+    "name": "Australian Shepherd & Corgi",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 922,
+    "name": "English Bulldog & Jack Russell Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 923,
+    "name": "Bull Terrier & English Bulldog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 924,
+    "name": "German Shepherd Dog & Great Dane",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 925,
+    "name": "American Staffordshire Terrier & Border Collie",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 926,
+    "name": "Labrador Retriever & Manchester Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 927,
+    "name": "American Staffordshire Terrier & Mastiff",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 928,
+    "name": "American Staffordshire Terrier & Vizsla",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 929,
+    "name": "Golden Retriever & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 930,
+    "name": "Bernese Mountain Dog & Foxhound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 931,
+    "name": "Australian Cattle Dog / Blue Heeler & Chow Chow",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 932,
+    "name": "Shar-Pei & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 933,
+    "name": "Australian Cattle Dog / Blue Heeler & Beagle",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 934,
+    "name": "American Bulldog & Black Mouth Cur",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 935,
+    "name": "Doberman Pinscher & Great Dane",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 936,
+    "name": "Border Collie & Newfoundland Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 937,
+    "name": "Maltese & Schnauzer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 938,
+    "name": "Dogo Argentino & Spaniel",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 939,
+    "name": "Akita & Nova Scotia Duck Tolling Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 940,
+    "name": "Black Mouth Cur & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 941,
+    "name": "Dachshund & Miniature Pinscher",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 942,
+    "name": "Norfolk Terrier & Poodle",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 943,
+    "name": "Dachshund & Yorkshire Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 944,
+    "name": "Australian Cattle Dog / Blue Heeler & Jack Russell Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 945,
+    "name": "West Highland White Terrier / Westie & Yorkshire Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 946,
+    "name": "German Shepherd Dog & Yellow Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 947,
+    "name": "Boxer & Great Dane",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 948,
+    "name": "Jindo & Rottweiler",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 949,
+    "name": "American Staffordshire Terrier & Australian Cattle Dog / Blue Heeler",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 950,
+    "name": "American Staffordshire Terrier & Staffordshire Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 951,
+    "name": "Cardigan Welsh Corgi & Cattle Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 952,
+    "name": "American Staffordshire Terrier & Rhodesian Ridgeback",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 953,
+    "name": "Bull Terrier & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 954,
+    "name": "Cairn Terrier & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 955,
+    "name": "Basenji & Fox Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 956,
+    "name": "Beagle & Husky",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 957,
+    "name": "Husky & Pomeranian",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 958,
+    "name": "Black Mouth Cur & Shar-Pei",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 959,
+    "name": "Bullmastiff & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 960,
+    "name": "Cairn Terrier & Wirehaired Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 961,
+    "name": "Doberman Pinscher & Greyhound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 962,
+    "name": "Basenji & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 963,
+    "name": "Labrador Retriever & Rhodesian Ridgeback",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 964,
+    "name": "Cairn Terrier & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 965,
+    "name": "Basset Hound & Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 966,
+    "name": "Black Mouth Cur & Redbone Coonhound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 967,
+    "name": "Field Spaniel & Spaniel",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 968,
+    "name": "Cocker Spaniel & Dachshund",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 969,
+    "name": "Beagle & Cavalier King Charles Spaniel",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 970,
+    "name": "Rhodesian Ridgeback & Shar-Pei",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 971,
+    "name": "Australian Shepherd & Flat-Coated Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 972,
+    "name": "Border Collie & Karelian Bear Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 973,
+    "name": "Labrador Retriever & Yellow Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 974,
+    "name": "Chocolate Labrador Retriever & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 975,
+    "name": "Chihuahua & Tibetan Spaniel",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 976,
+    "name": "Mixed Breed & Schnauzer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 977,
+    "name": "Coonhound & Miniature Pinscher",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 978,
+    "name": "Chihuahua & Schipperke",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 979,
+    "name": "Black Labrador Retriever & Husky",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 980,
+    "name": "American Eskimo Dog & Shiba Inu",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 981,
+    "name": "Xoloitzcuintli / Mexican Hairless",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 982,
+    "name": "Affenpinscher & Xoloitzcuintli / Mexican Hairless",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 983,
+    "name": "Cattle Dog & Wirehaired Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 984,
+    "name": "Beagle & German Shepherd Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 985,
+    "name": "Mountain Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 986,
+    "name": "Black Labrador Retriever & Portuguese Water Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 987,
+    "name": "Black Labrador Retriever & Corgi",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 988,
+    "name": "Labrador Retriever & Vizsla",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 989,
+    "name": "Cairn Terrier & Silky Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 990,
+    "name": "Bluetick Coonhound & Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 991,
+    "name": "Dachshund & Wirehaired Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 992,
+    "name": "Beagle & Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 993,
+    "name": "Rat Terrier & Whippet",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 994,
+    "name": "Greyhound & Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 995,
+    "name": "American Staffordshire Terrier & Shar-Pei",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 996,
+    "name": "Miniature Pinscher & Rat Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 997,
+    "name": "Mastiff & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 998,
+    "name": "Curly-Coated Retriever & German Wirehaired Pointer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 999,
+    "name": "Australian Shepherd & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1000,
+    "name": "Carolina Dog & Husky",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1001,
+    "name": "Eskimo Dog & Siberian Husky",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1002,
+    "name": "Australian Cattle Dog / Blue Heeler & Yellow Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1003,
+    "name": "Chinese Crested Dog & Pomeranian",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1004,
+    "name": "American Eskimo Dog & Pomeranian",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1005,
+    "name": "Black Labrador Retriever & Boxer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1006,
+    "name": "American Bulldog & Dogo Argentino",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1007,
+    "name": "Australian Cattle Dog / Blue Heeler & German Shepherd Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1008,
+    "name": "Border Collie & German Shepherd Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1009,
+    "name": "Hound & Whippet",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1010,
+    "name": "Great Dane & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1011,
+    "name": "Maltese & Yorkshire Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1012,
+    "name": "Border Collie & Staffordshire Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1013,
+    "name": "American Staffordshire Terrier & Great Dane",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1014,
+    "name": "Patterdale Terrier / Fell Terrier & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1015,
+    "name": "Pit Bull Terrier & Saint Bernard",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1016,
+    "name": "McNab",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1017,
+    "name": "German Shepherd Dog & McNab",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1018,
+    "name": "Chow Chow & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1019,
+    "name": "Jack Russell Terrier & Miniature Pinscher",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1020,
+    "name": "Black Mouth Cur & Catahoula Leopard Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1021,
+    "name": "Bull Terrier & Pointer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1022,
+    "name": "English Setter & German Shepherd Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1023,
+    "name": "Feist & Rat Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1024,
+    "name": "Akita & Husky",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1025,
+    "name": "Black Mouth Cur & Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1026,
+    "name": "Catahoula Leopard Dog & Redbone Coonhound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1027,
+    "name": "Akita & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1028,
+    "name": "Beagle & Catahoula Leopard Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1029,
+    "name": "Collie & Shetland Sheepdog / Sheltie",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1030,
+    "name": "Cocker Spaniel & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1031,
+    "name": "Australian Cattle Dog / Blue Heeler & Basenji",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1032,
+    "name": "Labrador Retriever & Treeing Walker Coonhound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1033,
+    "name": "Australian Shepherd & German Shepherd Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1034,
+    "name": "Cattle Dog & Manchester Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1035,
+    "name": "Black and Tan Coonhound & Bluetick Coonhound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1036,
+    "name": "Catahoula Leopard Dog & Chow Chow",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1037,
+    "name": "Bloodhound & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1038,
+    "name": "Chihuahua & Feist",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1039,
+    "name": "French Bulldog & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1040,
+    "name": "Labrador Retriever & Plott Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1041,
+    "name": "Labrador Retriever & Redbone Coonhound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1042,
+    "name": "English Bulldog & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1043,
+    "name": "Chesapeake Bay Retriever & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1044,
+    "name": "Chihuahua & French Bulldog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1045,
+    "name": "Bull Terrier & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1046,
+    "name": "American Bulldog & Shar-Pei",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1047,
+    "name": "Skye Terrier & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1048,
+    "name": "Beagle & Boston Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1049,
+    "name": "Alaskan Malamute & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1050,
+    "name": "Basset Hound & Cocker Spaniel",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1051,
+    "name": "Cocker Spaniel & Spaniel",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1052,
+    "name": "Australian Cattle Dog / Blue Heeler & Plott Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1053,
+    "name": "Husky & Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1054,
+    "name": "Doberman Pinscher & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1055,
+    "name": "Australian Kelpie & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1056,
+    "name": "Golden Retriever & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1057,
+    "name": "Poodle & Schnauzer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1058,
+    "name": "Corgi & Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1059,
+    "name": "Black Labrador Retriever & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1060,
+    "name": "Foxhound & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1061,
+    "name": "Cockapoo & Poodle",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1062,
+    "name": "Alaskan Malamute & German Shepherd Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1063,
+    "name": "Border Terrier & Boston Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1064,
+    "name": "Golden Retriever & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1065,
+    "name": "Catahoula Leopard Dog & Pointer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1066,
+    "name": "Doberman Pinscher & Weimaraner",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1067,
+    "name": "Terrier & Yellow Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1068,
+    "name": "Fila Brasileiro",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1069,
+    "name": "Fila Brasileiro & Mastiff",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1070,
+    "name": "Dachshund & Havanese",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1071,
+    "name": "Cairn Terrier & Chihuahua",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1072,
+    "name": "Pit Bull Terrier & Pug",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1073,
+    "name": "Dogue de Bordeaux & Shar-Pei",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1074,
+    "name": "Chinese Crested Dog & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1075,
+    "name": "Cardigan Welsh Corgi & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1076,
+    "name": "English Pointer & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1077,
+    "name": "Redbone Coonhound & Vizsla",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1078,
+    "name": "Bull Terrier & Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1079,
+    "name": "Hound & Staffordshire Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1080,
+    "name": "Pit Bull Terrier & Vizsla",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1081,
+    "name": "German Shorthaired Pointer & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1082,
+    "name": "Mastiff & Staffordshire Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1083,
+    "name": "Portuguese Podengo & Schnauzer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1084,
+    "name": "Boxer & English Bulldog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1085,
+    "name": "Anatolian Shepherd & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1086,
+    "name": "German Shorthaired Pointer & German Wirehaired Pointer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1087,
+    "name": "Border Terrier & Jack Russell Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1088,
+    "name": "Italian Greyhound & Pointer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1089,
+    "name": "Airedale Terrier & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1090,
+    "name": "Chihuahua & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1091,
+    "name": "Brussels Griffon & Pug",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1092,
+    "name": "Beagle & French Bulldog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1093,
+    "name": "Basenji & Chihuahua",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1094,
+    "name": "Bloodhound & Coonhound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1095,
+    "name": "American Bulldog & Boston Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1096,
+    "name": "Dogue de Bordeaux & Mastiff",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1097,
+    "name": "Akita & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1098,
+    "name": "American Staffordshire Terrier & Fox Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1099,
+    "name": "American Staffordshire Terrier & German Shorthaired Pointer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1100,
+    "name": "Papillon & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1101,
+    "name": "Shepherd & Smooth Collie",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1102,
+    "name": "Cattle Dog & Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1103,
+    "name": "Cocker Spaniel & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1104,
+    "name": "Great Pyrenees & Husky",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1105,
+    "name": "Schnauzer & Shih Tzu",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1106,
+    "name": "Pug & Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1107,
+    "name": "Dalmatian & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1108,
+    "name": "Boxer & Boxer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1109,
+    "name": "American Eskimo Dog & Great Pyrenees",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1110,
+    "name": "Australian Shepherd & Cane Corso",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1111,
+    "name": "Feist & Mountain Cur",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1112,
+    "name": "Bichon Frise & Shih Tzu",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1113,
+    "name": "Pit Bull Terrier & Weimaraner",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1114,
+    "name": "Australian Shepherd & Cocker Spaniel",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1115,
+    "name": "Jindo & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1116,
+    "name": "Hound & Weimaraner",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1117,
+    "name": "Beagle & Smooth Fox Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1118,
+    "name": "Boxer & Rat Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1119,
+    "name": "Terrier & West Highland White Terrier / Westie",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1120,
+    "name": "Mixed Breed & Wirehaired Pointing Griffon",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1121,
+    "name": "Alaskan Malamute & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1122,
+    "name": "Miniature Pinscher & Pug",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1123,
+    "name": "Australian Shepherd & Norwegian Elkhound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1124,
+    "name": "Coonhound & Foxhound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1125,
+    "name": "Chow Chow & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1126,
+    "name": "Plott Hound & Pointer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1127,
+    "name": "Cavalier King Charles Spaniel & Spaniel",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1128,
+    "name": "Schnauzer & Scottish Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1129,
+    "name": "Akita & Border Collie",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1130,
+    "name": "Basset Hound & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1131,
+    "name": "Bernese Mountain Dog & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1132,
+    "name": "Mountain Dog & Norwegian Elkhound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1133,
+    "name": "Bernese Mountain Dog & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1134,
+    "name": "Anatolian Shepherd & Mastiff",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1135,
+    "name": "Pointer & Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1136,
+    "name": "Jindo & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1137,
+    "name": "Miniature Pinscher & Papillon",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1138,
+    "name": "Maltese & Shih Tzu",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1139,
+    "name": "Cattle Dog & Peruvian Inca Orchid",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1140,
+    "name": "Black and Tan Coonhound & Redbone Coonhound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1141,
+    "name": "American Foxhound & Treeing Walker Coonhound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1142,
+    "name": "Akita & American Staffordshire Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1143,
+    "name": "Australian Cattle Dog / Blue Heeler & Basset Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1144,
+    "name": "American Staffordshire Terrier & Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1145,
+    "name": "Tosa Inu",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1146,
+    "name": "Corgi & Pug",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1147,
+    "name": "Border Terrier & Norwich Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1148,
+    "name": "Beagle & Rat Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1149,
+    "name": "Rottweiler & Staffordshire Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1150,
+    "name": "Basset Hound & Weimaraner",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1151,
+    "name": "Akita & Anatolian Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1152,
+    "name": "American Staffordshire Terrier & Dogo Argentino",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1153,
+    "name": "Rhodesian Ridgeback & Vizsla",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1154,
+    "name": "Akita & Boxer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1155,
+    "name": "American Staffordshire Terrier & Rottweiler",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1156,
+    "name": "Hound & Spaniel",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1157,
+    "name": "Catahoula Leopard Dog & Great Dane",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1158,
+    "name": "Catahoula Leopard Dog & Plott Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1159,
+    "name": "Dachshund & Dachshund",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1160,
+    "name": "English Springer Spaniel & Schnauzer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1161,
+    "name": "Labrador Retriever & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1162,
+    "name": "Chow Chow & Sheep Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1163,
+    "name": "Chow Chow & Husky",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1164,
+    "name": "Black Labrador Retriever & Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1165,
+    "name": "Beagle & English Bulldog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1166,
+    "name": "White German Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1167,
+    "name": "Great Pyrenees & White German Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1168,
+    "name": "Great Pyrenees & Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1169,
+    "name": "Cocker Spaniel & Miniature Poodle",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1170,
+    "name": "Shar-Pei & Siberian Husky",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1171,
+    "name": "Belgian Shepherd / Sheepdog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1172,
+    "name": "Dachshund & French Bulldog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1173,
+    "name": "Mixed Breed & Yorkshire Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1174,
+    "name": "Akita & Pug",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1175,
+    "name": "Cattle Dog & Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1176,
+    "name": "Setter & Shih Tzu",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1177,
+    "name": "Doberman Pinscher & Whippet",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1178,
+    "name": "Black and Tan Coonhound & Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1179,
+    "name": "Pointer & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1180,
+    "name": "Affenpinscher & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1181,
+    "name": "American Staffordshire Terrier & Rat Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1182,
+    "name": "Affenpinscher & Rottweiler",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1183,
+    "name": "Affenpinscher & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1184,
+    "name": "Anatolian Shepherd & Great Pyrenees",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1185,
+    "name": "Airedale Terrier & Yorkshire Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1186,
+    "name": "German Pinscher & Miniature Pinscher",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1187,
+    "name": "American Bulldog & Coonhound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1188,
+    "name": "German Shepherd Dog & Golden Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1189,
+    "name": "French Bulldog & Pomeranian",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1190,
+    "name": "Australian Cattle Dog / Blue Heeler & Doberman Pinscher",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1191,
+    "name": "Shepherd & Shetland Sheepdog / Sheltie",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1192,
+    "name": "Basenji & Rat Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1193,
+    "name": "Black Labrador Retriever & German Shepherd Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1194,
+    "name": "Black Mouth Cur & Staffordshire Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1195,
+    "name": "Basenji & Corgi",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1196,
+    "name": "Labrador Retriever & Shiba Inu",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1197,
+    "name": "Schnauzer & Scottish Deerhound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1198,
+    "name": "Basset Hound & Staffordshire Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1199,
+    "name": "American Staffordshire Terrier & Pointer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1200,
+    "name": "Border Collie & Flat-Coated Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1201,
+    "name": "Corgi & Spitz",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1202,
+    "name": "Basset Hound & Boston Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1203,
+    "name": "Parson Russell Terrier & Spaniel",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1204,
+    "name": "Catahoula Leopard Dog & Weimaraner",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1205,
+    "name": "American Eskimo Dog & Chihuahua",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1206,
+    "name": "Siberian Husky & White German Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1207,
+    "name": "Akita & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1208,
+    "name": "Border Terrier & Irish Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1209,
+    "name": "Labrador Retriever & Wheaten Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1210,
+    "name": "Boxer & Pointer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1211,
+    "name": "Dachshund & Smooth Fox Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1212,
+    "name": "Basenji & Jindo",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1213,
+    "name": "Cattle Dog & Shiba Inu",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1214,
+    "name": "Basenji & Cattle Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1215,
+    "name": "Airedale Terrier & Yellow Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1216,
+    "name": "Hound & Vizsla",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1217,
+    "name": "Papillon & Pomeranian",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1218,
+    "name": "Australian Shepherd & English Bulldog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1219,
+    "name": "Chihuahua & Cocker Spaniel",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1220,
+    "name": "Irish Terrier & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1221,
+    "name": "Pit Bull Terrier & Pomeranian",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1222,
+    "name": "Airedale Terrier & Whippet",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1223,
+    "name": "Jindo & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1224,
+    "name": "Hound & Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1225,
+    "name": "Australian Terrier & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1226,
+    "name": "Chow Chow & Shar-Pei",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1227,
+    "name": "Miniature Dachshund",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1228,
+    "name": "Australian Shepherd & Pointer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1229,
+    "name": "Alaskan Malamute & Keeshond",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1230,
+    "name": "Labrador Retriever & Lhasa Apso",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1231,
+    "name": "Chihuahua & German Shepherd Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1232,
+    "name": "Pomeranian & Shiba Inu",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1233,
+    "name": "Corgi & Jack Russell Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1234,
+    "name": "Boston Terrier & French Bulldog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1235,
+    "name": "Maltese & Miniature Poodle",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1236,
+    "name": "Petit Basset Griffon Vendeen",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1237,
+    "name": "Lhasa Apso & Petit Basset Griffon Vendeen",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1238,
+    "name": "Chihuahua & Chinese Crested Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1239,
+    "name": "Mountain Cur & Weimaraner",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1240,
+    "name": "Anatolian Shepherd & German Shepherd Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1241,
+    "name": "American Bulldog & Great Pyrenees",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1242,
+    "name": "Australian Cattle Dog / Blue Heeler & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1243,
+    "name": "Boxer & Golden Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1244,
+    "name": "German Shorthaired Pointer & Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1245,
+    "name": "Labrador Retriever & Newfoundland Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1246,
+    "name": "Mixed Breed & Vizsla",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1247,
+    "name": "Italian Greyhound & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1248,
+    "name": "Border Collie & McNab",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1249,
+    "name": "Black Labrador Retriever & Great Dane",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1250,
+    "name": "Black Labrador Retriever & Chesapeake Bay Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1251,
+    "name": "Border Collie & Golden Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1252,
+    "name": "Mixed Breed & Patterdale Terrier / Fell Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1253,
+    "name": "Boston Terrier & Catahoula Leopard Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1254,
+    "name": "Dachshund & Spaniel",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1255,
+    "name": "Australian Shepherd & Bernese Mountain Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1256,
+    "name": "Jack Russell Terrier & Smooth Fox Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1257,
+    "name": "Silky Terrier & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1258,
+    "name": "Border Collie & Treeing Walker Coonhound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1259,
+    "name": "Rottweiler & Saint Bernard",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1260,
+    "name": "Husky & Shar-Pei",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1261,
+    "name": "Australian Cattle Dog / Blue Heeler & Boston Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1262,
+    "name": "Beagle & Brittany Spaniel",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1263,
+    "name": "Belgian Shepherd / Malinois & Chow Chow",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1264,
+    "name": "Bernese Mountain Dog & Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1265,
+    "name": "Black Labrador Retriever & Cardigan Welsh Corgi",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1266,
+    "name": "Dalmatian & Jack Russell Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1267,
+    "name": "Chow Chow & Rottweiler",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1268,
+    "name": "Boston Terrier & Miniature Pinscher",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1269,
+    "name": "Chinese Crested Dog & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1270,
+    "name": "Cavalier King Charles Spaniel & Japanese Chin",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1271,
+    "name": "Golden Retriever & Husky",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1272,
+    "name": "Great Pyrenees & Greyhound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1273,
+    "name": "Cardigan Welsh Corgi & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1274,
+    "name": "Bichon Frise & Maltese",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1275,
+    "name": "Boston Terrier & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1276,
+    "name": "Akita & Chow Chow",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1277,
+    "name": "Black Labrador Retriever & Flat-Coated Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1278,
+    "name": "Carolina Dog & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1279,
+    "name": "Bichon Frise & Yorkshire Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1280,
+    "name": "Irish Setter & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1281,
+    "name": "American Staffordshire Terrier & Doberman Pinscher",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1282,
+    "name": "Chihuahua & Shih Tzu",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1283,
+    "name": "Bluetick Coonhound & Great Dane",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1284,
+    "name": "Plott Hound & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1285,
+    "name": "Pointer & Vizsla",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1286,
+    "name": "Border Collie & Spaniel",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1287,
+    "name": "English Bulldog & Staffordshire Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1288,
+    "name": "Dalmatian & Dogo Argentino",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1289,
+    "name": "Cockapoo & Schnauzer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1290,
+    "name": "Chow Chow & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1291,
+    "name": "Cairn Terrier & Schnauzer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1292,
+    "name": "Pomeranian & Spaniel",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1293,
+    "name": "American Staffordshire Terrier & Great Pyrenees",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1294,
+    "name": "Black Mouth Cur & German Shepherd Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1295,
+    "name": "Beagle & Corgi",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1296,
+    "name": "Fox Terrier & Rat Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1297,
+    "name": "Cairn Terrier & Maltese",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1298,
+    "name": "Bull Terrier & Cattle Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1299,
+    "name": "Dalmatian & Miniature Pinscher",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1300,
+    "name": "Husky & Saluki",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1301,
+    "name": "Australian Cattle Dog / Blue Heeler & Pug",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1302,
+    "name": "German Wirehaired Pointer & Pointer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1303,
+    "name": "Saint Bernard & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1304,
+    "name": "Coonhound & English Setter",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1305,
+    "name": "Canaan Dog & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1306,
+    "name": "Gordon Setter & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1307,
+    "name": "Akbash",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1308,
+    "name": "Akbash & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1309,
+    "name": "American Staffordshire Terrier & White German Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1310,
+    "name": "Collie & Greyhound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1311,
+    "name": "Border Collie & Siberian Husky",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1312,
+    "name": "Dogo Argentino & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1313,
+    "name": "Feist & Parson Russell Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1314,
+    "name": "Pomeranian & Spitz",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1315,
+    "name": "Beagle & Dalmatian",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1316,
+    "name": "Chihuahua & Chihuahua",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1317,
+    "name": "Australian Cattle Dog / Blue Heeler & Bluetick Coonhound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1318,
+    "name": "Australian Cattle Dog / Blue Heeler & Shar-Pei",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1319,
+    "name": "Australian Shepherd & Black Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1320,
+    "name": "Coonhound & Redbone Coonhound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1321,
+    "name": "Border Collie & Boston Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1322,
+    "name": "Australian Shepherd & Golden Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1323,
+    "name": "Australian Shepherd & Dachshund",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1324,
+    "name": "Basset Hound & Cattle Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1325,
+    "name": "Bloodhound & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1326,
+    "name": "Basenji & Boston Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1327,
+    "name": "Pekingese & Spaniel",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1328,
+    "name": "American Bulldog & Great Dane",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1329,
+    "name": "Boxer & Dogo Argentino",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1330,
+    "name": "Golden Retriever & Nova Scotia Duck Tolling Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1331,
+    "name": "Feist & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1332,
+    "name": "Carolina Dog & Shar-Pei",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1333,
+    "name": "German Shepherd Dog & Rhodesian Ridgeback",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1334,
+    "name": "Carolina Dog & Corgi",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1335,
+    "name": "American Staffordshire Terrier & Carolina Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1336,
+    "name": "Black Labrador Retriever & Shar-Pei",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1337,
+    "name": "Pomeranian & Schnauzer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1338,
+    "name": "Border Collie & Chow Chow",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1339,
+    "name": "Greyhound & Rhodesian Ridgeback",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1340,
+    "name": "Jack Russell Terrier & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1341,
+    "name": "Corgi & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1342,
+    "name": "Beagle & Coonhound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1343,
+    "name": "Pug & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1344,
+    "name": "Akita & Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1345,
+    "name": "Bolognese & Poodle",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1346,
+    "name": "Dalmatian & Staffordshire Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1347,
+    "name": "Cocker Spaniel & Shih Tzu",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1348,
+    "name": "Manchester Terrier & Miniature Pinscher",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1349,
+    "name": "Coonhound & English Coonhound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1350,
+    "name": "Belgian Shepherd / Malinois & Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1351,
+    "name": "Labrador Retriever & Standard Poodle",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1352,
+    "name": "Harrier & Treeing Walker Coonhound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1353,
+    "name": "Coonhound & Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1354,
+    "name": "Irish Terrier & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1355,
+    "name": "Irish Terrier & Wirehaired Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1356,
+    "name": "Labrador Retriever & Poodle",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1357,
+    "name": "Alaskan Malamute & Corgi",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1358,
+    "name": "Maltese & Rat Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1359,
+    "name": "Miniature Bull Terrier & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1360,
+    "name": "Maltese & Silky Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1361,
+    "name": "Anatolian Shepherd & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1362,
+    "name": "Siberian Husky & Siberian Husky",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1363,
+    "name": "Australian Cattle Dog / Blue Heeler & Harrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1364,
+    "name": "American Staffordshire Terrier & Jack Russell Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1365,
+    "name": "Great Dane & Great Pyrenees",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1366,
+    "name": "American Staffordshire Terrier & Shetland Sheepdog / Sheltie",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1367,
+    "name": "Coonhound & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1368,
+    "name": "Boxer & Whippet",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1369,
+    "name": "American Bulldog & Basset Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1370,
+    "name": "Belgian Shepherd / Malinois & Siberian Husky",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1371,
+    "name": "American Bulldog & Staffordshire Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1372,
+    "name": "Beagle & Collie",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1373,
+    "name": "Greater Swiss Mountain Dog & Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1374,
+    "name": "Bull Terrier & Feist",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1375,
+    "name": "Pit Bull Terrier & Whippet",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1376,
+    "name": "Australian Kelpie & Cattle Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1377,
+    "name": "Pointer & Shar-Pei",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1378,
+    "name": "Mastiff & Shar-Pei",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1379,
+    "name": "Border Collie & Whippet",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1380,
+    "name": "Border Collie & Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1381,
+    "name": "Cane Corso & Mastiff",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1382,
+    "name": "Brussels Griffon & Yorkshire Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1383,
+    "name": "Plott Hound & Rhodesian Ridgeback",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1384,
+    "name": "German Shepherd Dog & Staffordshire Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1385,
+    "name": "Shar-Pei & Vizsla",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1386,
+    "name": "Great Dane & Yellow Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1387,
+    "name": "Dalmatian & Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1388,
+    "name": "Bloodhound & Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1389,
+    "name": "Rhodesian Ridgeback & Rottweiler",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1390,
+    "name": "Australian Cattle Dog / Blue Heeler & Bernese Mountain Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1391,
+    "name": "Schipperke & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1392,
+    "name": "Black Labrador Retriever & Mastiff",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1393,
+    "name": "Greyhound & Saluki",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1394,
+    "name": "American Bulldog & Black Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1395,
+    "name": "Bullmastiff & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1396,
+    "name": "Presa Canario",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1397,
+    "name": "Great Dane & Presa Canario",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1398,
+    "name": "Basset Hound & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1399,
+    "name": "Shepherd & Shiba Inu",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1400,
+    "name": "Golden Retriever & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1401,
+    "name": "Briard & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1402,
+    "name": "Border Terrier & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1403,
+    "name": "Corgi & Rhodesian Ridgeback",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1404,
+    "name": "Boston Terrier & Fox Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1405,
+    "name": "Dalmatian & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1406,
+    "name": "Cairn Terrier & Norfolk Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1407,
+    "name": "Catahoula Leopard Dog & Mountain Cur",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1408,
+    "name": "Shepherd & Weimaraner",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1409,
+    "name": "Bullmastiff & Staffordshire Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1410,
+    "name": "Anatolian Shepherd & Mountain Cur",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1411,
+    "name": "Pomeranian & Schipperke",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1412,
+    "name": "Saint Bernard & White German Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1413,
+    "name": "Beagle & Black Mouth Cur",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1414,
+    "name": "Chesapeake Bay Retriever & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1415,
+    "name": "Boxer & Dalmatian",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1416,
+    "name": "Beagle & Treeing Walker Coonhound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1417,
+    "name": "Spitz & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1418,
+    "name": "Lhasa Apso & Miniature Poodle",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1419,
+    "name": "Jindo & Shiba Inu",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1420,
+    "name": "American Bulldog & Catahoula Leopard Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1421,
+    "name": "Dachshund & Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1422,
+    "name": "Bull Terrier & Shar-Pei",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1423,
+    "name": "Mixed Breed & Pharaoh Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1424,
+    "name": "Border Collie & Corgi",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1425,
+    "name": "Alaskan Malamute & Husky",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1426,
+    "name": "Dutch Shepherd & German Shepherd Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1427,
+    "name": "Belgian Shepherd / Malinois & Mountain Cur",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1428,
+    "name": "Foxhound & Hound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1429,
+    "name": "American Eskimo Dog & Shetland Sheepdog / Sheltie",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1430,
+    "name": "Hound & Jack Russell Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1431,
+    "name": "Mixed Breed & Wirehaired Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1432,
+    "name": "Cattle Dog & Fox Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1433,
+    "name": "Labrador Retriever & Norwich Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1434,
+    "name": "Boxer & Chihuahua",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1435,
+    "name": "American Staffordshire Terrier & Mountain Cur",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1436,
+    "name": "Brussels Griffon & Cavalier King Charles Spaniel",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1437,
+    "name": "Pit Bull Terrier & Yellow Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1438,
+    "name": "Anatolian Shepherd & Anatolian Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1439,
+    "name": "Great Pyrenees & Kuvasz",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1440,
+    "name": "Chihuahua & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1441,
+    "name": "American Staffordshire Terrier & Australian Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1442,
+    "name": "German Shepherd Dog & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1443,
+    "name": "Australian Shepherd & Husky",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1444,
+    "name": "Basset Hound & Catahoula Leopard Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1445,
+    "name": "Shepherd & Yellow Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1446,
+    "name": "Cockapoo & Yorkshire Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1447,
+    "name": "Australian Cattle Dog / Blue Heeler & Coonhound",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1448,
+    "name": "Australian Cattle Dog / Blue Heeler & Miniature Pinscher",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1449,
+    "name": "Basset Hound & English Bulldog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1450,
+    "name": "German Shepherd Dog & Mastiff",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1451,
+    "name": "American Bulldog & Mountain Cur",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1452,
+    "name": "Akita & Pembroke Welsh Corgi",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1453,
+    "name": "American Eskimo Dog & Spitz",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1454,
+    "name": "Labrador Retriever & Saint Bernard",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1455,
+    "name": "Retriever & Shar-Pei",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1456,
+    "name": "Basset Hound & Mastiff",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1457,
+    "name": "American Bulldog & Beagle",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1458,
+    "name": "Retriever & Yellow Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1459,
+    "name": "Akita & Rhodesian Ridgeback",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1460,
+    "name": "Beagle & Spaniel",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1461,
+    "name": "Australian Cattle Dog / Blue Heeler & Black Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1462,
+    "name": "Retriever & Samoyed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1463,
+    "name": "Canaan Dog & Greater Swiss Mountain Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1464,
+    "name": "Beagle & Flat-Coated Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1465,
+    "name": "Foxhound & Pointer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1466,
+    "name": "Beagle & Cocker Spaniel",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1467,
+    "name": "Vizsla & Yellow Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1468,
+    "name": "Bernese Mountain Dog & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1469,
+    "name": "Retriever & Weimaraner",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1470,
+    "name": "Cardigan Welsh Corgi & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1471,
+    "name": "Terrier & Tibetan Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1472,
+    "name": "Corgi & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1473,
+    "name": "Miniature Poodle & Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1474,
+    "name": "Brittany Spaniel & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1475,
+    "name": "Bullmastiff & Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1476,
+    "name": "Carolina Dog & Chihuahua",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1477,
+    "name": "Shar-Pei & Staffordshire Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1478,
+    "name": "Boxer & Feist",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1479,
+    "name": "Collie & Pointer",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1480,
+    "name": "Boxer & Weimaraner",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1481,
+    "name": "Pomeranian & Yorkshire Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1482,
+    "name": "Australian Shepherd & Papillon",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1483,
+    "name": "Beagle & Shar-Pei",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1484,
+    "name": "Australian Shepherd & English Springer Spaniel",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1485,
+    "name": "Shih Tzu & Tibetan Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1486,
+    "name": "Cavalier King Charles Spaniel & Yorkshire Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1487,
+    "name": "Collie & Spaniel",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1488,
+    "name": "Great Pyrenees & Mixed Breed",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1489,
+    "name": "Shepherd & Vizsla",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1490,
+    "name": "German Shepherd Dog & Vizsla",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1491,
+    "name": "Treeing Walker Coonhound & Yellow Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1492,
+    "name": "American Staffordshire Terrier & Yellow Labrador Retriever",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1493,
+    "name": "Black Mouth Cur & Husky",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1494,
+    "name": "Cocker Spaniel & English Bulldog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1495,
+    "name": "Greyhound & Vizsla",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1496,
+    "name": "Belgian Shepherd / Malinois & Shepherd",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1497,
+    "name": "Airedale Terrier & German Shepherd Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1498,
+    "name": "Pharaoh Hound & Pit Bull Terrier",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1499,
+    "name": "American Bulldog & Cattle Dog",
+    "live": false,
+    "mixed": true
+  },
+  {
+    "id": 1500,
+    "name": "Mastiff & Neapolitan Mastiff",
+    "live": false,
+    "mixed": true
+  }
+]

@@ -9,7 +9,7 @@ app.get('/breeds', (req, res) => {
   res.writeHead(200, {
     'content-type': 'application/json'
   });
-  fs.createReadStream('./breeds.json').pipe(res);
+  fs.createReadStream('./breeds-with-mixed-live.json').pipe(res);
 });
 
 app.get('/', (req, res) => {
