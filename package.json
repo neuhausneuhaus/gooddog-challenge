@@ -12,11 +12,14 @@
     "babel-preset-stage-0": "^6.24.1",
     "classnames": "2.2.6",
     "express": "^4.15.4",
+    "fast-css-loader": "^1.0.2",
     "fast-sass-loader": "1.4.7",
     "isomorphic-fetch": "^2.2.1",
+    "node-sass": "4.x",
     "prop-types": "^15.6.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
+    "style-loader": "0.x",
     "webpack": "^3.5.5"
   },
   "devDependencies": {

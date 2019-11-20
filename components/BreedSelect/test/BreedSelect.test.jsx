@@ -68,7 +68,7 @@ describe('BreedSelect', () => {
   it('initializes state', () => {
     const { componentInstance } = renderComponent(BreedSelect, DEFAULT_PROPS);
 
-    expect(componentInstance.state).toEqual({
+    expect(componentInstance.state).toMatchObject({
       textInput: '',
       visibleBreeds: [...pureBreeds, ...mixedBreeds]
     });
