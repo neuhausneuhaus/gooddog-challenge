@@ -4,7 +4,7 @@ import testRenderer from 'react-test-renderer';
 import BreedSelect from '../';
 
 
-/**
+/*
  * Given a Component function and an optional props object,
  * return a react-test-renderer renderer instance and the rendered component instance
  *
@@ -56,8 +56,23 @@ describe('BreedSelect', () => {
     name: 'Mixed Breed 3'
   }];
 
+  const nonLiveBreeds = [{
+    id: 7,
+    live: false,
+    mixed: true,
+    name: 'nonLive Breed 1'
+  },{
+    id: 8,
+    live: false,
+    mixed: false,
+    name: 'nonLive Breed 2'
+  }]
+
   const DEFAULT_PROPS = {
     availableBreeds: [...pureBreeds, ...mixedBreeds]
+  };
+  const NONLIVE_ALT_PROPS = {
+    availableBreeds: [...pureBreeds, ...mixedBreeds, ...nonLiveBreeds]
   };
 
   /*
@@ -87,7 +102,7 @@ describe('BreedSelect', () => {
     });
   });
 
-  /**
+  /*
    * EXAMPLE TEST CASE 3: testing descendants
    * This test case renders an instance of BreedSelect with DEFAULT_PROPS
    * and verifies that there are the expected number of breeds rendered (identified by 'breed' classname)
@@ -99,7 +114,7 @@ describe('BreedSelect', () => {
     expect(options.length).toEqual(6);
   });
 
-  /**
+  /*
    * ASSIGNMENT TEST CASE 1: testing pure-breed and mixed descendants
    * This test case renders an instance of BreedSelect with DEFAULT_PROPS
    * and verifies that there are:
@@ -115,7 +130,7 @@ describe('BreedSelect', () => {
     expect(mixedOptions.length).toEqual(3);
   });
 
-  /**
+  /*
    * ASSIGNMENT TEST CASE 2 (BONUS): testing pure-breed, mixed, and non-live descendants
    * This test case renders an instance of BreedSelect with DEFAULT_PROPS
    * and verifies that there are:
@@ -125,5 +140,48 @@ describe('BreedSelect', () => {
    *
    * NOTE: Remember to check against duplicates!
    */
-  it.skip('renders pure, mixed, and non-live breeds separately', () => {});
+  it('renders pure, mixed, and non-live breeds separately', () => {
+    const { renderer } = renderComponent(BreedSelect, NONLIVE_ALT_PROPS);
+    const pureOptions = renderer.root.findAllByProps({ className: 'breed--pure'});
+    const mixedOptions = renderer.root.findAllByProps({ className: 'breed--mixed'});
+    const nonLiveOptions = renderer.root.findAllByProps({ className: 'breed--non-live'});
+    console.log(mixedOptions[2]._fiber.stateNode.props);
+    expect(pureOptions.length).toEqual(3);
+    expect(mixedOptions.length).toEqual(3);
+    expect(nonLiveOptions.length).toEqual(2);
+    /*
+     * IMO, matching the above length assertions should be enough to ensure 
+     * that no breeds were duplicated.
+     *
+     * However, to show that individual breeds do not specifically appear 
+     * in a second category, we can also make checks like:
+     */
+    expect(mixedOptions).not.toEqual(
+      expect.arrayContaining([
+        expect.objectContaining({
+          _fiber: expect.objectContaining({
+            stateNode: expect.objectContaining({
+              props: expect.objectContaining({
+                children: 'nonLive Breed 1'
+              })
+            }) 
+          })
+        })
+      ])
+    );
+    expect(pureOptions).not.toEqual(
+      expect.arrayContaining([
+        expect.objectContaining({
+          _fiber: expect.objectContaining({
+            stateNode: expect.objectContaining({
+              props: expect.objectContaining({
+                children: 'nonLive Breed 2'
+              })
+            }) 
+          })
+        })
+      ])
+    );
+
+  });
 });
