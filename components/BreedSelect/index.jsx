@@ -90,15 +90,15 @@ export default class BreedSelect extends Component {
           />
         </div>
         <BreedList
-          listType="Pure Breeds"
+          listType='breed--pure'
           visibleBreeds={visiblePureBreeds}
         />
         <BreedList
-          listType="Mixed Breeds"
+          listType='breed--mixed'
           visibleBreeds={visibleMixedBreeds}
         />
         <BreedList
-          listType="Non-Live Breeds"
+          listType='breed--non-live'
           visibleBreeds={visibleNonLiveBreeds}
         />
       </div>

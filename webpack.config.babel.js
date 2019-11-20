@@ -13,7 +13,8 @@ module.exports = {
       {
         test: /\.(scss|sass)$/,
         use: [
-          'css-loader',
+          'style-loader',
+          'fast-css-loader',
           {
             loader: 'fast-sass-loader',
             options: {

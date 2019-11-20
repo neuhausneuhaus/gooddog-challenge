@@ -21,12 +21,17 @@ export default class BreedList extends Component {
   };
 
   render() {
+    const listTitle = {
+      'breed--pure' : 'Pure Breeds',
+      'breed--mixed' : 'Mixed Breeds',
+      'breed--non-live' : 'Non-Live Breeds',
+    }[this.props.listType]
     return (
       <div className="BreedList"
         style={{float: "left"}}
       >
         <div className="BreedList-Title">
-          {this.props.listType}
+          {listTitle}
         </div>
         <div
           role="presentation"
@@ -34,10 +39,10 @@ export default class BreedList extends Component {
         >
           {
             this.props.visibleBreeds.map(breed => (
-              <p className="breed" key={ breed.id }>
-                { breed.name }
-                live: { breed.live ? " true" : " false" }
-                mixed: { breed.mixed ? " true" : " false"}
+              <p className={`breed`} key={ breed.id }>
+                <div className={this.props.listType}>
+                  {breed.name}
+                </div>
               </p>
             ))
           }

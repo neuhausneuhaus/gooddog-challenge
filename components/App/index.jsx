@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
-
 import BreedSelect from '../BreedSelect';
-
 
 export default class App extends Component {
   state = {
