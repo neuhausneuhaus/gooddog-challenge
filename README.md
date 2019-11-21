@@ -63,7 +63,7 @@ The following dependencies are included as part of this project:
 **Dependencies can be added for testing or CSS but not for JavaScript/React implementation.**
 
 ## Submission
-The submit your solution, open up a pull request against the master branch.  If you want to explain your solution, fill out [IMPLEMENTATION_NOTES](IMPLEMENTATION_NOTES) -- you can also add in some ideas for future extensions or optimizations if you don't get to them in your implementation.
+The submit your solution, open up a pull request against the master branch.  If you want to explain your solution, fill out [IMPLEMENTATION_NOTES](IMPLEMENTATION_NOTES.md) -- you can also add in some ideas for future extensions or optimizations if you don't get to them in your implementation.
 
 ### SUBMISSION CHECKLIST
 - [ ] Is my solution working?

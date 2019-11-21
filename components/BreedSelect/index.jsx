@@ -34,11 +34,12 @@ export default class BreedSelect extends Component {
       );
     }
 
-    // TODO: potentially remove once replaced in tests
+    // NOTE: Though this is no longer rendered, I am leaving it in state to satisfy the tests
+    // In an actual production environment, I would advocate to remove it.
     derivedState.visibleBreeds = visibleBreeds;
 
-    // Filter breeds remaining in nextProps.available breeds into Mixed, Pure, and NonLive
-    // Note: All non-live breeds should be in the non-live group exclusively, regardless of other values
+    // Filters breeds remaining in nextProps.available breeds into Mixed, Pure, and NonLive
+    // NOTE: All non-live breeds should be in the non-live group exclusively, regardless of other values
     derivedState.visibleMixedBreeds = visibleBreeds.filter(
       b => b.live && b.mixed
     );
@@ -82,6 +83,7 @@ export default class BreedSelect extends Component {
         <div>
           <input
             name="breed_select"
+            className="breed_select--input"
             autoComplete="off"
             type="text"
             value={ textInput }
@@ -89,18 +91,20 @@ export default class BreedSelect extends Component {
             onChange={ this.handleInputChange }
           />
         </div>
-        <BreedList
-          listType='breed--pure'
-          visibleBreeds={visiblePureBreeds}
-        />
-        <BreedList
-          listType='breed--mixed'
-          visibleBreeds={visibleMixedBreeds}
-        />
-        <BreedList
-          listType='breed--non-live'
-          visibleBreeds={visibleNonLiveBreeds}
-        />
+        <div className="BreedList-container">
+          <BreedList
+            listType='breed--pure'
+            visibleBreeds={visiblePureBreeds}
+          />
+          <BreedList
+            listType='breed--mixed'
+            visibleBreeds={visibleMixedBreeds}
+          />
+          <BreedList
+            listType='breed--non-live'
+            visibleBreeds={visibleNonLiveBreeds}
+          />
+        </div>
       </div>
     );
   }

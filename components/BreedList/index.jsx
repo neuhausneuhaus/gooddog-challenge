@@ -1,11 +1,8 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 
-// import { isEmpty } from '../../util/object';
-
 export default class BreedList extends Component {
   static propTypes = {
-
     visibleBreeds: PropTypes.arrayOf(PropTypes.shape({
       id: PropTypes.number,
       live: PropTypes.bool,
@@ -27,29 +24,26 @@ export default class BreedList extends Component {
       'breed--non-live' : 'Non-Live Breeds',
     }[this.props.listType]
     return (
-      <div className="BreedList"
-        style={{float: "left"}}
-      >
-        <div className="BreedList-Title">
-          {listTitle}
+      <div className="BreedList">
+        <div className="BreedList-title">
+          {listTitle}:
         </div>
         <div
           role="presentation"
           onMouseDown={ e => e.preventDefault() }
+          className="BreedList-body"
         >
           {
             this.props.visibleBreeds.map(breed => (
-              <p className={`breed`} key={ breed.id }>
+              <div className={`breed`} key={ breed.id }>
                 <div className={this.props.listType}>
                   {breed.name}
                 </div>
-              </p>
+              </div>
             ))
           }
         </div>
       </div>
     )
-
   }
-
 }
